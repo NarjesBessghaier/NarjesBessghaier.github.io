@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Narjes Bessghaier"
-  avatar           : "me.png"
+  avatar           : "me.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Montreal, QC, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Narjes Bessghaier"
   google_plus      :
   keybase          :
   instagram        :
