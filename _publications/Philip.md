@@ -1,7 +1,6 @@
 ---
 title: "On the Detection of Structural Aesthetic Defects of Android Mobile User Interfaces with a Metrics-based Tool"
 collection: publications
-permalink: http://NarjesBessghaier.github.io/files/TiiS_2020.pdf
 date: July 2020
 venue: 'The ACM Transactions on Interactive Intelligent Systems'
 paperurl: 'http://NarjesBessghaier.github.io/files/TiiS_2020.pdf'
