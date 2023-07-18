@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to My HomePage!"
+title                    : "Narjes's HomePage!"
 title_separator          : "-"
 name                     : &name "Narjes Bessghaier"
 description              : &description "Hi"
