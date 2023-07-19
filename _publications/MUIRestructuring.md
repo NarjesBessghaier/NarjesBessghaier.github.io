@@ -1,9 +1,9 @@
 ---
-title: "Towards Usability Evaluation of Hybrid Mobile User Interfaces"
+title: "Towards the Automatic Restructuring of Structural Aesthetic Design of Android User Interfaces"
 collection: publications
-date: October 2017
-venue: AICCSA
-paperurl: 'http://NarjesBessghaier.github.io/files/AICCSA-2017.pdf'
-citation: 'Bessghaier, N., & Souii, M. (2017, October). Towards usability evaluation of hybrid mobile user interfaces. In 2017 IEEE/ACS 14th International Conference on Computer Systems and Applications (AICCSA) (pp. 895-900). IEEE.'
+date: November 2021
+venue: Computer Standards & Interfaces
+paperurl: 'http://NarjesBessghaier.github.io/files/MUIRestructuring.pdf'
+citation: 'Bessghaier, N., Soui, M., & Ghaibi, N. (2022). Towards the automatic restructuring of structural aesthetic design of Android user interfaces. Computer Standards & Interfaces, 81, 103598.'
 ---
-Hybrid mobile applications are in an ongoing debate about their usability comparing with native mobile applications. Despite the cross-platform compatibility offered by hybrid apps, many developers tend to go native. This choice is due to some issues in hybrid apps like performance, usability, and security. As web technologies improvements take hold, many developers and technology executives find HTML5 usable for building mobile apps. In this context, we choose to work on assessing the usability of Hybrid User Interfaces (HUI). This study shows the results of an experiment conducted over four hybrid apps to identify their usability defects. A predefined list of 13 structural usability defects selected from literature has been used. Our aim is to create a usability defects base of examples of hybrid applications.
+End-user engagement heavily relies on the aesthetic design of the application’s user interfaces. Designers are keen to create user interfaces that are usable and appealing. However, fundamental design issues , such as inconsistent padding and margins, cluttered user interfaces, and a high variation of element sizes, are too frequent in a UI design.. Prior studies provided ready-to-implement user interface alternatives. However, the aesthetic quality of these alternative designs is not guaranteed, and it limits the creativity of designers. Therefore, we present in this study an automated approach for restructuring a user interface structural design based on its data model. Our framework checks the violation of 13 generic structural design standards provided by Google Material Design. Then, the framework provides a set of recommendations for each violated guideline based on the specifications of the evaluated MUI. As a proof of concept, we used the tool ADDET to evaluate the quality of the original and restructured versions of 511 user interfaces in terms of the number of aesthetic defects and aesthetic properties. The results revealed a significant positive difference with a mean of 0.59 for the benefit of restructured user interfaces with an improved set of 7 quality metrics. We have also found that our approach could improve to an extent the accessibility of some designs by providing bigger element sizes.
