@@ -63,12 +63,17 @@ Awards
 Referees
 ======  
 
+* [Ali Ouni](https://ouniali.github.io)
+  
+Ecole de Technologie Superieure, University of Quebec, Montreal, QC, Canada, E-mail : ali.ouni@etsmtl.ca
+
 * [Mohamed Wiem Makaouer](https://www.rit.edu/directory/mwmvse-mohamed-wiem-mkaouer)
+  
 Rochester Institute of Technology, NY, USA, E-mail : mwmvse@rit.edu
 
-* [Mohammed Sayagh](https://msayagh.github.io))
+* [Mohammed Sayagh](https://msayagh.github.io)
+  
 Ecole de Technologie Superieure, University of Quebec, Montreal, QC, Canada, E-mail : Mohammed.Sayagh@etsmtl.ca
 
-* [Ali Ouni](https://ouniali.github.io)
-Ecole de Technologie Superieure, University of Quebec, Montreal, QC, Canada, E-mail : ali.ouni@etsmtl.ca
+
 
