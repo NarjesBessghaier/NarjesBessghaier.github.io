@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 1"
+title: "Adjunct lecturer of Computer science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: " Institut Supérieur de Gestion,Université de Gabès"
+date: 2017-2019
+location: "Gabes, Tunisia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Course 1
 ======
+Latex mark-up language (2nd year students: computer science)
 
-Heading 2
+Course 2
 ======
+Image Treatment using MATLAB (1st year students: E-commerce)
 
-Heading 3
+Course 3
 ======
+Advanced Java Programming (2nd year students: computer science)
