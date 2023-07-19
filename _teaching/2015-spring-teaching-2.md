@@ -1,5 +1,5 @@
 ---
-title: "Assistant teacher (GTI)"
+title: "Assistant teacher (2023-current)"
 collection: teaching
 type: "Undergraduate course"
 venue: "École de technologie supérieure, University of Quebec"
