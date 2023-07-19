@@ -3,7 +3,7 @@ title: "Assistant teacher (GTI)"
 collection: teaching
 type: "Undergraduate course"
 venue: "École de technologie supérieure, University of Quebec"
-date: 2023-current
+date: 2023-01-01
 location: "Montreal, QC, Canada"
 ---
 
