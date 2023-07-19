@@ -7,8 +7,6 @@ date: 2017-09-01
 location: "Gabes, Tunisia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 Course 1
 ======
 Latex mark-up language (2nd year students: computer science)
