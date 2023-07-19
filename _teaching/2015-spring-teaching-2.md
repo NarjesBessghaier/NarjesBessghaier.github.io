@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Assistant teacher (GTI)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+venue: "École de technologie supérieure, University of Quebec"
+date: 2023-current
+location: "Montreal, QC, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Course 1
 ======
+Programmation et réseautique en génie logiciel (LOG100)
 
-Heading 2
+Course 2
 ======
-
-Heading 3
-======
+Réingénierie du logiciel
