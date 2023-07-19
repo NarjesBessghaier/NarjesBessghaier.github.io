@@ -35,8 +35,8 @@ Skills
 
 Certification
 ======
-English British Council (Level b1) (2013)
-Microsoft technology associate for HTML5 applications development fundamentals (2015)
+* English British Council (Level b1) (2013)
+* Microsoft technology associate for HTML5 applications development fundamentals (2015)
 
 Publications
 ======
@@ -63,12 +63,12 @@ Awards
 Referees
 ======  
 
-[Mohamed Wiem Makaouer](https://www.rit.edu/directory/mwmvse-mohamed-wiem-mkaouer)
+* [Mohamed Wiem Makaouer](https://www.rit.edu/directory/mwmvse-mohamed-wiem-mkaouer)
 Rochester Institute of Technology, NY, USA, E-mail : mwmvse@rit.edu
 
-[Mohammed Sayagh](https://msayagh.github.io))
+* [Mohammed Sayagh](https://msayagh.github.io))
 Ecole de Technologie Superieure, University of Quebec, Montreal, QC, Canada, E-mail : Mohammed.Sayagh@etsmtl.ca
 
-[Ali Ouni](https://ouniali.github.io)
+* [Ali Ouni](https://ouniali.github.io)
 Ecole de Technologie Superieure, University of Quebec, Montreal, QC, Canada, E-mail : ali.ouni@etsmtl.ca
 
