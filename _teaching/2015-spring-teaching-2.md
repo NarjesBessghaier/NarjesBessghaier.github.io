@@ -13,4 +13,4 @@ Programmation et réseautique en génie logiciel (LOG100)
 
 Course 2
 ======
-Réingénierie du logiciel
+Réingénierie du logiciel (LOG530)
