@@ -3,7 +3,7 @@ title: "Adjunct lecturer of Computer science"
 collection: teaching
 type: "Undergraduate course"
 venue: " Institut Supérieur de Gestion,Université de Gabès"
-date: 2017-2019
+date: 2017-09-01 2019-06-01
 location: "Gabes, Tunisia"
 ---
 
