@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2016-2019: 3D designer intern
+* 2016-2019: 3D design intern
   * PALM 3D Studio 
   * Duties included: Participating as a 3D designer in the realization of an animated series.
   * Supervisor: Ing. [Raouf Bessghaier](https://www.linkedin.com/in/bessghaier-raouf/)
