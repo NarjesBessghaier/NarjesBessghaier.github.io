@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Narjes Bessghaier"
+title                    : "About me!"
 title_separator          : "-"
 name                     : &name "Narjes Bessghaier"
 description              : &description "Hi"
