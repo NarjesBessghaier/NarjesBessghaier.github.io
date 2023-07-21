@@ -54,11 +54,13 @@ Teaching
 Awards
 ======
 
-* Highest Overall average award in the 2nd year of research master class (2017)
-* Highest Overall average award in the 1rst year of research master class (2016)
+* Highest overall average award in the 2nd year of research master class (2017)
+* Highest overall average award in the 1rst year of research master class (2016)
 * Scholarship from the Ministry of Higher Education for taking the first place in the master class (2016)
-* Highest Overall average award at the University of Gabes-Tunisia (2015)
-* Highest Overall average award at the Higher Institute of Management of Gabes-Tunisia (2015)
+* Highest overall average award at the University of Gabes-Tunisia (2015)
+* Highest overall average award at the Higher Institute of Management of Gabes-Tunisia (2015)
+* Highest overall average award at the Higher Institute of Management of Gabes-Tunisia (2014)
+* Highest overall average award at the Higher Institute of Management of Gabes-Tunisia (2013)
 
 Referees
 ======  
