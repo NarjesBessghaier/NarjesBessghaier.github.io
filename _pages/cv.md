@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer science applied to Management, Higher Institute of Management of Gabes, Tunisia, 2015 (Thesis: Guardian Jet-Un jeu vidéo en 3D)
+* B.S. in Computer science applied to Management, Higher Institute of Management of Gabes, Tunisia, 2015 (Thesis: Guardian Jet - Un jeu vidéo en 3D)
 * M.S. in Enterprises Systems Engineering- TEMPUS Project, Higher Institute of Computer science and Multimedia of Sfax, Tunisia, 2017 (Thesis: An Optimization-based approach for Usability Assessment of Hybrid Mobile User Interfaces.)
 * Ph.D in Software Engineering, ETS, QC, Canada, 2024 (expected)
 
