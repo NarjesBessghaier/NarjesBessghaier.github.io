@@ -1,5 +1,5 @@
 ---
-title: "Assistant teacher (2023-current)"
+title: "Teaching assistant (2023-current)"
 collection: teaching
 type: "Undergraduate course"
 venue: "École de technologie supérieure, University of Quebec"
