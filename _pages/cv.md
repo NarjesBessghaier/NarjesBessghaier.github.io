@@ -26,7 +26,15 @@ Work experience
   * PALM 3D Studio 
   * Duties included: Design of gypsum sculpture: we model a fantasy 3D objects using 3D modeling software. Then, we sculpt the models using gypsum.
   * Supervisor: Ing. [Raouf Bessghaier](https://www.linkedin.com/in/bessghaier-raouf/)
+    
+* Winter-Summer 2023: Co-supervisor
+   * Master student: Chemseddine MEBARKI
+   * Degree: MAÎTRISE AVEC PROJET EN GÉNIE DES TECHNOLOGIES DE L’INFORMATION.
+   * Project: Une étude empirique sur la diffusion et l’impact des anomalies de code d’infrastructure.
+   * Affiliation: École de Technologie Superieure
+     
 
+* 
 Service
 ======
 * Reviewer:
