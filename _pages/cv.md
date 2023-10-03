@@ -53,8 +53,7 @@ Service
 Skills
 ======
 * Languages: Arabic, English, French
-* ML modelling, SBSE
-* 3D design and Graphics
+* ML modelling, SBSE, R for statistics
 
 Certification
 ======
