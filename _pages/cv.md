@@ -52,7 +52,7 @@ Service
   
 Skills
 ======
-* Langugaes: Arabic, English, French
+* Languages: Arabic, English, French
 * ML modelling, SBSE
 * 3D design and Graphics
 
