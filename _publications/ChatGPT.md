@@ -1,5 +1,5 @@
 ---
-title: "How Do So ware Developers Use ChatGPT? An Exploratory Study on GitHub Pull Requests"
+title: "How Do Software Developers Use ChatGPT? An Exploratory Study on GitHub Pull Requests"
 collection: publications
 date: 2024/4/15
 venue: '2024 IEEE/ACM 21st International Conference on Mining Software Repositories (MSR)'
