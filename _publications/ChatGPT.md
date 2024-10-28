@@ -17,11 +17,11 @@ characteristics of PRs that incorporate ChatGPT compared to those
 without it and what developers usually use it for. To this end, we
 quantitatively analyzed 243 PRs that listed at least one ChatGPT
 prompt against a representative sample of 384 PRs without any
-ChatGPT prompts. Our ndings show that developers use ChatGPT
-in larger, time-consuming pull requests that are ve times slower
+ChatGPT prompts. Our findings show that developers use ChatGPT
+in larger, time-consuming pull requests that are five times slower
 to be closed than PRs that do not use ChatGPT. Furthermore, we
 perform a qualitative analysis to build a taxonomy of the topics
 developers primarily address in their prompts. Our analysis results
-in a taxonomy comprising 8 topics and 32 sub-topics. Our ndings
+in a taxonomy comprising 8 topics and 32 sub-topics. Our findings
 highlight that ChatGPT is often used in review-intensive pull requests. Moreover, our taxonomy enriches our understanding of the
 developer’s current applications of ChatGPT.
