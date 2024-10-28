@@ -7,6 +7,14 @@ date: 2023-01-01
 location: "Montreal, QC, Canada"
 ---
 
+
+
+
+
+
+
+
+
 Course 1
 ======
 Programmation et réseautique en génie logiciel (LOG100) [S2023, S2024, F2024]
