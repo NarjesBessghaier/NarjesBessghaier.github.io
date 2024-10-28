@@ -4,7 +4,7 @@ collection: publications
 date: July 2023
 venue: ESEM
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10304847'
-citation: 'Mahi Begoug, Narjes Bessghaier, Ali Ouni, Eman Alomar and Mohamed Wiem Mkaouer'
+citation: 'Begoug, M., Bessghaier, N., Ouni, A., AlOmar, E. A., & Mkaouer, M. W. (2023, October). What do infrastructure-as-code practitioners discuss: An empirical study on stack overflow. In 2023 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) (pp. 1-12). IEEE.'
 ---
 Background. Infrastructure-as-Code (IaC) is an
 emerging practice to manage cloud infrastructure resources for
