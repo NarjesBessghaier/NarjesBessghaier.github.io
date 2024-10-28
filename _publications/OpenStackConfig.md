@@ -1,5 +1,5 @@
 ---
-title: "What Constitutes the Deployment and Run-time Configuration System? An Empirical Study on OpenStack Projects (Just Accepted)"
+title: "What Constitutes the Deployment and Run-time Configuration System? An Empirical Study on OpenStack Projects"
 collection: publications
 date: July 2023
 venue: ACM Transactions on Software Engineering and Methodology
