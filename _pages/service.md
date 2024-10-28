@@ -1,5 +1,9 @@
-
 * Reviewer:
+  - IJHC
+  - MSR 2024
+* Sub-Reviewer:
+  - EMSE
+  - SCICO 2023
   - ESEC FSE 2023
   - SCAM 2023
   - IEEE-ICWS 2022
