@@ -14,11 +14,9 @@
   - SCAM 2021
   
 * Local chair:
-
 SEMLA (Software Engineering for Machine Learning Applications)
 Url: https://semla.polymtl.ca/
 
 * Volunteer:
-
 JFFI (Journée Francophone des Femmes en Informatique)
 Url: https://jffi.ca/
