@@ -34,20 +34,31 @@ Work experience
    * Affiliation: École de Technologie Superieure
      
 
-* 
 Service
 ======
 * Reviewer:
-
-  - IEEE-ICWS 2021
-  - TSE 2021
-  - SCAM 2021
-  - IEEE-ICWS 2022
-  - EMSE 2022
-  - JSS 2022
+  - IJHC
+  - MSR 2024
+* Sub-reviewer:
+  - EMSE 2024
+  - SCICO 2024
   - ESEC FSE 2023
   - SCAM 2023
   - IJHC 2023
+  - IEEE-ICWS 2022
+  - EMSE 2022
+  - JSS 2022
+  - IEEE-ICWS 2021
+  - TSE 2021
+  - SCAM 2021
+ * Local chair:
+   SEMLA (Software Engineering for Machine Learning Applications)
+   Url: https://semla.polymtl.ca/
+* Volunteer:
+   JFFI (Journée Francophone des Femmes en Informatique)
+   Url: https://jffi.ca/
+  
+  
   
   
 Skills
