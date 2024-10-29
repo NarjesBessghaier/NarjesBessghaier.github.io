@@ -18,3 +18,6 @@ Image Treatment using MATLAB (1st year students: E-commerce)
 Course 3
 ======
 Advanced Java Programming (2nd year students: computer science)
+
+
+![Alt text for the image](images/teaching.png)
