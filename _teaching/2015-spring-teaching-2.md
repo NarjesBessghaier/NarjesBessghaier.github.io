@@ -26,3 +26,6 @@ Réingénierie du logiciel (LOG530) [W2023, W2024]
 Course 3
 ======
 Réalisation et maintenance de logiciels (MGL804) [W2024]
+
+
+![While teaching!](images/teaching.png)
