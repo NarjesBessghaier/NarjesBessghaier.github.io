@@ -22,4 +22,4 @@ Course 3
 Réalisation et maintenance de logiciels (MGL804) [W2024]
 
 
-![While teaching](images/teaching.png)
+![In the class](images/teaching.png)
