@@ -112,9 +112,9 @@ Referees
   
 Ecole de Technologie Superieure, University of Quebec, Montreal, QC, Canada, E-mail : ali.ouni@etsmtl.ca
 
-* [Mohamed Wiem Makaouer](https://www.rit.edu/directory/mwmvse-mohamed-wiem-mkaouer)
+* [Mohamed Wiem Makaouer](https://directory.umflint.edu/computer-science-engineering-and-physics/mmkaouer)
   
-Rochester Institute of Technology, NY, USA, E-mail : mwmvse@rit.edu
+Associate Professor at University of Michigan-Flint College of Innovation & Technology, NY, USA : mmkaouer@umich.edu
 
 * [Mohammed Sayagh](https://msayagh.github.io)
   
