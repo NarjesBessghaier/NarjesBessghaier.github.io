@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Work experience"
+permalink: /work/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
 
 * Winter 2016: ALECSO M-developer project candidate, Gabes (Tunisia)
   * Develop Web-based mobile applications
