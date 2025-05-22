@@ -7,3 +7,4 @@ venue: "IEEE/ACS 14th International Conference on Computer Systems and Applicati
 date: 2017-10-28
 location: "Tunis, Tunisia"
 ---
+![conference](../images/AICCSSA17.png)
