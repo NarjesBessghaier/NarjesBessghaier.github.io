@@ -37,4 +37,4 @@ redirect_from:
 * Research collaboration (2018-2019)
    * Project Title: “An optimization-based approach for learning user interfaces restructuring”
    * Prof. Khaled Ghedira and Prof. Makram Soui
-   * Affiliation: National Institute of Applied Science and Technology (INSAT), University of Carthage (Tunisia)
+   * Affiliation: ENSI, University of Tunis, Tunisia
