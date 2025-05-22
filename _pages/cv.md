@@ -18,6 +18,10 @@ Education
 
 Work experience
 ======
+
+* Winter 2016: ALECSO M-developer project candidate, Gabes (Tunisia)
+  * Develop Web-based mobile applications
+                
 * 2016-2019: 3D design intern
   * PALM 3D Studio 
   * Duties included: Participating as a 3D designer in the realization of an animated series.
@@ -28,36 +32,47 @@ Work experience
   * Duties included: Design of gypsum sculpture: we model a fantasy 3D objects using 3D modeling software. Then, we sculpt the models using gypsum.
   * Supervisor: Ing. [Raouf Bessghaier](https://www.linkedin.com/in/bessghaier-raouf/)
     
-* Winter-Summer 2023: Co-supervisor
+* Winter 2023: Co-supervisor
    * Master student: Chemseddine MEBARKI
    * Degree: MAÎTRISE AVEC PROJET EN GÉNIE DES TECHNOLOGIES DE L’INFORMATION.
    * Project: Une étude empirique sur la diffusion et l’impact des anomalies de code d’infrastructure.
-   * Affiliation: École de Technologie Superieure
-     
+   * Affiliation: ETS, Montreal, QC, Canada
+ 
+* Summer 2023: Co-supervisor
+   * Engineering student: Fatma beji (MITACS intern)
+   * Degree: Diplôme national d’ingénieur informatique.
+   * Project: A fine-grained detection of Infrastructure-as-Code smells.
+   * Affiliation: ENSI, University of Tunis, Tunisia
+
+* Research collaboration (2018-2019)
+   * Project Title: “An optimization-based approach for learning user interfaces restructuring”
+   * Prof. Khaled Ghedira and Prof. Makram Soui
+   * Affiliation: National Institute of Applied Science and Technology (INSAT), University of Carthage (Tunisia)
 
 Service
 ======
+
 * Reviewer:
-  - IJHC
-  - MSR 2024
+  - IJHC, MSR, IJMLC (2024)
+  - IEEE-ICWS (2021, 2022)
+    
 * Sub-reviewer:
-  - EMSE 2024
-  - SCICO 2024
-  - ESEC FSE 2023
-  - SCAM 2023
-  - IJHC 2023
-  - IEEE-ICWS 2022
-  - EMSE 2022
-  - JSS 2022
-  - IEEE-ICWS 2021
-  - TSE 2021
-  - SCAM 2021
+  - EMSE, SCICO (2024)
+  - ESEC/FSE, SCAM (2023)
+  - EMSE, JSS (2022)
+  - TSE, SCAM (2021)
+  
  * Local chair:
-   SEMLA (Software Engineering for Machine Learning Applications)
+   Venue: SEMLA 2024 (Software Engineering for Machine Learning Applications)
    Url: https://semla.polymtl.ca/
+   
 * Volunteer:
-   JFFI (Journée Francophone des Femmes en Informatique)
+   Venue: JFFI 2024 (Journée Francophone des Femmes en Informatique)
    Url: https://jffi.ca/
+
+* IEEE-member (2016-2018)
+  Rank: Graduate Student
+  Location: ISIM, Sfax branch  
   
   
   
@@ -65,13 +80,13 @@ Skills
 ======
 * Languages: Arabic, English, French
 * ML modelling, SBSE, R for statistics
+  
 
 Certification
 ======
 * CELPIP : Canada's leading general English test (CLB level : 9) (2025)
 * Microsoft technology associate for HTML5 applications development fundamentals (2015)
 * English British Council (Level b1) (2013)
-
 
 
 Publications
