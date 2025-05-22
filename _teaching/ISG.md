@@ -7,15 +7,17 @@ date: 2017-09-01
 location: "Gabes, Tunisia"
 ---
 
-Course 1
+![In the class](../images/ISG.png)
+
+## Course 1
 ======
 Latex mark-up language (2nd year students: computer science)
 
-Course 2
+## Course 2
 ======
 Image Treatment using MATLAB (1st year students: E-commerce)
 
-Course 3
+## Course 3
 ======
 Advanced Java Programming (2nd year students: computer science)
 
