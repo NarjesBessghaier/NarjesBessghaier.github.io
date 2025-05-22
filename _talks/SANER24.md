@@ -7,3 +7,4 @@ venue: "IEEE International Conference on Software Analysis, Evolution and Reengi
 date: 2024-03-12
 location: "Rovaniemi, Finland"
 ---
+![In the class](../images/SANER24.png)
