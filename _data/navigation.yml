@@ -9,5 +9,11 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "Talks"
+    url: /talks/  
+
+  - title: "Services"
+    url: /service/    
    #url: /files/cv.pdf
     
