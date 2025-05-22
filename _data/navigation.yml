@@ -13,5 +13,8 @@ main:
     url: /talks/  
 
   - title: "Services"
-    url: /service/    
+    url: /service/   
+
+  - title: "Work experiences"
+    url: /work/
     
