@@ -9,40 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * Ph.D in Software Engineering, Ecole de Technologie Supériere, QC, Canada, 2025 (Thesis: Towards Assisting Software Practitioners in Navigating the Complexity of Infrastructure-as-Code.)
 * M.S. in Enterprises Systems Engineering- TEMPUS Project, Higher Institute of Computer science and Multimedia of Sfax, Tunisia, 2017 (Thesis: An Optimization-based approach for Usability Assessment of Hybrid Mobile User Interfaces.)
 * B.S. in Computer science applied to Management, Higher Institute of Management of Gabes, Tunisia, 2015 (Thesis: Guardian Jet - Un jeu vidéo en 3D)
 
 
-Skills
+## Skills
 ======
 * Languages: Arabic, English, French
 * ML modelling, SBSE, R for statistics
   
 
-Certification
+## Certification
 ======
 * CELPIP : Canada's leading general English test (CLB level : 9) (2025)
 * Microsoft technology associate for HTML5 applications development fundamentals (2015)
 * English British Council (Level b1) (2013)
 
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
-Teaching
+## Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Awards
+## Awards
 ======
 
 * Higher Institute of Computer Science and Multimedia of Sfax (Tunisia) 
@@ -60,7 +60,7 @@ First rank award in the 2nd year of Bachelor’s degree (2014)
 * Higher Institute of Management of Gabès (Tunisia)
 First rank award in the 1st year of Bachelor’s degree (2013)
 
-Referees
+## Referees
 ======  
 
 * [Ali Ouni](https://ouniali.github.io)
