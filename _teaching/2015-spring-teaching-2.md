@@ -7,7 +7,6 @@ date: 2023-01-01
 location: "Montreal, QC, Canada"
 ---
 
-![In the class](images/teaching.png)
 
 Course 1
 ======
