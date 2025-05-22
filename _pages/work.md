@@ -29,7 +29,7 @@ redirect_from:
    * Affiliation: ETS, Montreal, QC, Canada
  
 * Summer 2023: Co-supervisor
-   * Engineering student: Fatma beji (MITACS intern)
+   * Engineering student: Fatma BEJI (MITACS intern)
    * Degree: Diplôme national d’ingénieur informatique.
    * Project: A fine-grained detection of Infrastructure-as-Code smells.
    * Affiliation: ENSI, University of Tunis, Tunisia
