@@ -24,7 +24,7 @@ redirect_from:
     
 * Winter 2023: Co-supervisor
    * Master student: Chemseddine MEBARKI
-   * Degree: MAÎTRISE AVEC PROJET EN GÉNIE DES TECHNOLOGIES DE L’INFORMATION.
+   * Degree: Maîtrise avec projet en génie des technologies de l'information
    * Project: Une étude empirique sur la diffusion et l’impact des anomalies de code d’infrastructure.
    * Affiliation: ETS, Montreal, QC, Canada
  
