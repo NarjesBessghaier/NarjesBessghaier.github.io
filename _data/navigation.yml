@@ -3,7 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
   
-
   - title: "Teaching"
     url: /teaching/  
 
@@ -15,5 +14,4 @@ main:
 
   - title: "Services"
     url: /service/    
-   #url: /files/cv.pdf
     
