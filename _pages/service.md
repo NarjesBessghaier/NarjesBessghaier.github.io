@@ -22,6 +22,8 @@ redirect_from:
  * Local chair:
    - Venue: SEMLA 2024 (Software Engineering for Machine Learning Applications)
    - Url: https://semla.polymtl.ca/
+  
+     ![In the class](images/semla24.png)
    
 * Volunteer:
    - Venue: JFFI 2024 (Journée Francophone des Femmes en Informatique)
