@@ -17,7 +17,6 @@ I am a Software Engineering Ph.D. graduate (2025) from École de Technologie Sup
 - Software Configuration
 - DevOps
 - Empirical Studies
-- Respository Mining
 - SBSE and ML for SE
 
 
