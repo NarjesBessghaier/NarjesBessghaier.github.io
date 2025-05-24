@@ -11,7 +11,7 @@ location: "Montreal, QC, Canada"
 ![UI framewrok](../images/framework.png)
 
 
-##Synopsis:
+## Synopsis:
 
 We present in this study an automated approach for restructuring a user interface structural design based on its
 data model. Our framework checks the violation of 13 generic structural design standards provided by Google
