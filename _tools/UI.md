@@ -1,11 +1,11 @@
 ---
 title: "Mobile apps UI defects detection and restruturing Framework"
 collection: tools
-type: "M.Sc project"
+type: "Research project"
 permalink: /tools/UI
-venue: "Higher Institute of Computer Science and Multimedia"
-date: 2017-09-01 
-location: "Sfax, Tunisia"
+venue: "École de technologie supérieure "
+date: 2021-11-01 
+location: "Montreal, QC, Canada"
 ---
 
 
