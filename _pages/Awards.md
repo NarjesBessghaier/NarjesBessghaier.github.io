@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Awards & certifications"
+permalink: /Awards/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
 
 ## Certification
 
