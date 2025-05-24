@@ -9,8 +9,6 @@ location: "Gabes, Tunisia"
 
 ![3D game](../images/game.png) 
 
-## 3D educational video game
-
 * B.S. in Computer science applied to Management
   - Thesis: Guardian Jet - Un jeu vidéo en 3D
   - Higher Institute of Management of Gabes, Tunisia, 2015
