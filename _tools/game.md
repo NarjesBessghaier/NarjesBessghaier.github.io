@@ -7,6 +7,9 @@ venue: "Higher Institute of Management"
 location: "Gabes, Tunisia"
 ---
 
+![3D game](../images/game.png)
+
+## 3D educational viode game
 
 * B.S. in Computer science applied to Management
   - Thesis: Guardian Jet - Un jeu vidéo en 3D
