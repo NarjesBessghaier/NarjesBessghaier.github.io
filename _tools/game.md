@@ -1,13 +1,11 @@
 ---
-layout: archive
-title: "Assets"
-permalink: /tools/
-author_profile: true
-redirect_from:
-  - /resume
+title: "3D video game"
+collection: tools
+type: "B.S project"
+venue: "Higher Institute of Management"
+location: "Gabes, Tunisia"
 ---
 
-{% include base_path %}
 
 ## 3D Educational Video Game
 
