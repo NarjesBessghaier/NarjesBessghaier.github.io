@@ -25,6 +25,10 @@ Developed an educational 3D video game using Autodesk Maya 2015 for 3D modeling,
 
 ![2step](../images/canvas.png)
 
+#### Step 3: Creating 3D objects using Maya
+
+![2step](../images/maya.png)
+
 
 Download the game on Windows and Mac (it wont work on M1, M2 ships): [Guardian Jet](https://drive.google.com/drive/folders/1CSrYVe97ZvMtAqk9XwDNyMDWM1zPjUDg?usp=share_link)
 
