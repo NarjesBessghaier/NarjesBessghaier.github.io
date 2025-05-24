@@ -2,7 +2,7 @@
 title: "Teaching assistant (2017-2019)"
 collection: teaching
 type: "Undergraduate course"
-venue: " Institut Supérieur de Gestion,Université de Gabès"
+venue: "Institut Supérieur de Gestion,Université de Gabès"
 date: 2017-09-01 
 location: "Gabes, Tunisia"
 ---
