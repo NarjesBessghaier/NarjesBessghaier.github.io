@@ -4,6 +4,7 @@ collection: tools
 type: "B.S project"
 permalink: /tools/game
 venue: "Higher Institute of Management"
+date: 2015-06-01 
 location: "Gabes, Tunisia"
 ---
 
