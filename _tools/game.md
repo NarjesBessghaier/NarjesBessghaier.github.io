@@ -37,10 +37,10 @@ Developed an educational 3D video game using Autodesk Maya 2015 for 3D modeling,
 ![5step](../images/evaluation.png)
 
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=AfkVj9_Abb0)
+Watch a snippet of the game on Youtube: [Guardian Jet Video](https://www.youtube.com/watch?v=AfkVj9_Abb0)
 
 
-Download the game on Windows and Mac (it wont work on M1, M2 ships): [Guardian Jet](https://drive.google.com/drive/folders/1CSrYVe97ZvMtAqk9XwDNyMDWM1zPjUDg?usp=share_link)
+Download the game on Windows and Mac (it wont work on M1, M2 ships): [Guardian Jet Game](https://drive.google.com/drive/folders/1CSrYVe97ZvMtAqk9XwDNyMDWM1zPjUDg?usp=share_link)
 
 
 
