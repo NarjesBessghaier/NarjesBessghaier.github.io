@@ -6,10 +6,7 @@ main:
   - title: "Teaching"
     url: /teaching/  
 
-  - title: "CV"
-    url: /cv/
-
-  - title: "Talks"
+   - title: "Talks"
     url: /talks/  
 
   - title: "Services"
@@ -17,4 +14,13 @@ main:
 
   - title: "Work experiences"
     url: /work/
+
+   - title: "Assets"
+    url: /assets/  
+
+
+  - title: "CV"
+    url: /cv/
+
+ 
     
