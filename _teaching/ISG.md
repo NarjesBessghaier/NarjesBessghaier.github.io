@@ -10,15 +10,15 @@ location: "Gabes, Tunisia"
 ![In the class](../images/ISG.png)
 
 ## Course 1
-======
+
 Latex mark-up language (2nd year students: computer science)
 
 ## Course 2
-======
+
 Image Treatment using MATLAB (1st year students: E-commerce)
 
 ## Course 3
-======
+
 Advanced Java Programming (2nd year students: computer science)
 
 
