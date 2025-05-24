@@ -8,7 +8,7 @@ date: 2015-06-01
 location: "Gabes, Tunisia"
 ---
 
-![3D game](../images/game.png)
+![3D game](../images/game.png) 
 
 ## 3D educational video game
 
