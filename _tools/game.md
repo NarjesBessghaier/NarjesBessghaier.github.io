@@ -2,6 +2,7 @@
 title: "3D video game"
 collection: tools
 type: "B.S project"
+permalink: /tools/game
 venue: "Higher Institute of Management"
 location: "Gabes, Tunisia"
 ---
