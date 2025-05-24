@@ -3,8 +3,7 @@ title: "Mobile apps UI defects detection and restruturing Framework"
 collection: tools
 type: "Research project"
 permalink: /tools/UI
-venue: "National School of Computer Science "
-date: 2021-11-01 
+venue: "National School of Computer Science " 
 location: "Tunis, Tunisia"
 ---
 
