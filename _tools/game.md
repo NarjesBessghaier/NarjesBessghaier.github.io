@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Assets"
-permalink: /assets/
+permalink: /tools/
 author_profile: true
 redirect_from:
   - /resume
