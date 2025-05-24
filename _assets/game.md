@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Assets"
+permalink: /assets/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 
 ## 3D Educational Video Game
 
