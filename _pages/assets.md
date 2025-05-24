@@ -6,7 +6,7 @@
   - Thesis: Guardian Jet - Un jeu vidéo en 3D
   - Higher Institute of Management of Gabes, Tunisia, 2015
 
-Built an Educational video game using Maya 2015 to create the 3D objects and Adobe Phottoshop to create my canvases. 
+Developed an educational 3D video game using Autodesk Maya 2015 for 3D modeling, Unity for game development and animation, and Adobe Photoshop for creating canvas elements.
 
 #### Step 1: Drawing different plane models
 
