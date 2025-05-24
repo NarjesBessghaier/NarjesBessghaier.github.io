@@ -5,7 +5,7 @@ type: "Research project"
 permalink: /tools/UI
 venue: "National School of Computer Science "
 date: 2021-11-01 
-location: "Tunis, Tunisa"
+location: "Tunis, Tunisia"
 ---
 
 ![UI framewrok](../images/framework.png)
