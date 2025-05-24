@@ -18,6 +18,9 @@ redirect_from:
 
 ## Awards
 
+* Nominated for "Excellence award for PhD" (2025)
+  - Ecole de Techologie Superieur (Montreal, QC, Canada)
+
 * First rank award in the 2nd year of master’s degree (2017)
   - Higher Institute of Computer Science and Multimedia of Sfax (Tunisia) 
 
