@@ -20,14 +20,12 @@ redirect_from:
   - TSE, SCAM (2021)
   
  * Local chair:
-   - Venue: SEMLA 2024 (Software Engineering for Machine Learning Applications)
-   - Url: https://semla.polymtl.ca/
+   - Venue: [SEMLA](https://semla.polymtl.ca/) 2024 (Software Engineering for Machine Learning Applications)
   
      ![In the class](../images/semla24.png)
    
 * Volunteer:
-   - Venue: JFFI 2024 (Journée Francophone des Femmes en Informatique)
-   - Url: https://jffi.ca/
+   - Venue: [JFFI](https://jffi.ca/) 2024 (Journée Francophone des Femmes en Informatique)
 
 * IEEE-member (2016-2018)
    - Rank: Graduate Student
