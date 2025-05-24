@@ -10,7 +10,7 @@ Built an Educational video game using Maya 2015 to create the 3D objects and Ado
 
 #### Step 1: Drawing different plane models
 
-![1step](images/plane.png)
+![1step](../images/plane.png)
 
 
 Download the game on Windows and Mac (it wont work on M1, M2 ships): [Guardian Jet](https://drive.google.com/drive/folders/1CSrYVe97ZvMtAqk9XwDNyMDWM1zPjUDg?usp=share_link)
