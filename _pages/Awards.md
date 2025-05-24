@@ -30,6 +30,8 @@ redirect_from:
 * First rank award in the 1st year of master’s degree (2016)
   - Higher Institute of Computer Science and Multimedia of Sfax (Tunisia) 
 
+* Nominated for "Prix Présidentiel" (2015)
+  
 * Excellence Grant awarded for ranking first at the province level (2015)
   - University of Gabès (Tunisia)
 
