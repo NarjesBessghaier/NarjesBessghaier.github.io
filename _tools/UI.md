@@ -4,6 +4,7 @@ collection: tools
 type: "M.Sc project"
 permalink: /tools/UI
 venue: "Higher Institute of Computer Science and Multimedia"
+date: 2017-09-01 
 location: "Sfax, Tunisia"
 ---
 
