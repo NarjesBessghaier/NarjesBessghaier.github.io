@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-### ALECSO M-developer project candidate, Gabes (Tunisia)
+### ALECSO M-developer project candidate
   * Duties: Develop Web-based mobile applications
   * Period: Winter 2016
   * Place: ISG, Gabes, Tunisia
