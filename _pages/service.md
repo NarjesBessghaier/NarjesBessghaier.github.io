@@ -19,7 +19,7 @@ redirect_from:
   - EMSE, JSS (2022)
   - TSE, SCAM (2021)
   
- ### Local chair:
+### Local chair:
    - Venue: [SEMLA](https://semla.polymtl.ca/) 2024 (Software Engineering for Machine Learning Applications)
   
      ![In the class](../images/semla24.png)
