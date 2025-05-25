@@ -14,7 +14,7 @@ location: "Gabes, Tunisia"
   - Affiliation: Higher Institute of Management of Gabes, Tunisia
   - Period: 2014-1015
   - Supervisor: Dr, Iskander Keskes
-  - Engineer: Ing, Raouf Bessghaier
+  - Engineer: Ing, [Raouf Bessghaier](https://www.linkedin.com/in/bessghaier-raouf/)
   - Place: 3D Palm Studio
   - Software: Autodesk Maya 2015 for 3D modeling, Unity for game development and animation, and Adobe Photoshop for creating canvases elements.
 
