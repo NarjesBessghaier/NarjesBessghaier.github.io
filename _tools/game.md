@@ -9,11 +9,17 @@ location: "Gabes, Tunisia"
 
 ![3D game](../images/game.png) 
 
-* B.S. in Computer science applied to Management
+* Degree: B.S. in Computer science applied to Management
   - Thesis: Guardian Jet - Un jeu vidéo en 3D
-  - Higher Institute of Management of Gabes, Tunisia, 2015
+  - Affiliation: Higher Institute of Management of Gabes, Tunisia
+  - Period: 2014-1015
+  - Supervisor: Dr, Iskander Keskes
+  - Engineer: Ing, Raouf Bessghaier
+  - Place: 3D Palm Studio
+  - Software: Autodesk Maya 2015 for 3D modeling, Unity for game development and animation, and Adobe Photoshop for creating canvases elements.
 
-Developed an educational 3D video game using Autodesk Maya 2015 for 3D modeling, Unity for game development and animation, and Adobe Photoshop for creating canvas elements.
+- Story behind the game: I developed an educational 3D video game focused on the French colonization of Tunisia. The game consists of two interactive maps, each featuring educational questions related to the historical period. These questions appear on floating canvases, and players must shoot bullets at the correct answers to progress. Additionally, when players approach specific artifacts—such as jars, mines, or gates—a brief narrative is triggered, providing historical context about how these items were used during the colonial era. Each map also includes combat challenges, where players must shoot a set of enemies and collect gold. The player controls a miniature aircraft emblazoned with the Tunisian flag. The aircraft’s small scale—designed at a 1:10 ratio relative to other in-game objects—adds an extra layer of difficulty, enhancing the game's immersive dimension.
+
 
 #### Step 1: Drawing different plane models
 
