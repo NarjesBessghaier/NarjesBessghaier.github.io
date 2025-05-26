@@ -1,5 +1,5 @@
 ---
-title: "Mobile apps UI defects detection and restruturing Framework"
+title: "Mobile apps UI defects detection and restructuring Framework"
 collection: tools
 type: "Research project"
 permalink: /tools/UI
