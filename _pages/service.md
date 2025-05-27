@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+### Junior PC member:
+  - MSR (2024)
+    
 ### Reviewer:
-  - IJHC, MSR, IJMLC (2024)
+  - IJHC, IJMLC (2024)
   - IEEE-ICWS (2021, 2022)
     
 ### Sub-reviewer:
