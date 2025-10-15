@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ### Junior PC member:
+  - MSR (2026)
   - MSR (2024)
     
 ### Reviewer:
