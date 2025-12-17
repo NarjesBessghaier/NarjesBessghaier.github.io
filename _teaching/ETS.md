@@ -20,14 +20,19 @@ Chargée de laboratoire: [S2023, S2024, F2024]
 Réingénierie du logiciel (LOG530) 
 
 Chargée de cours : [W2025]
-
-Chargée de laboratoire: [W2023, W2024, W2025]
+Chargée de laboratoire: [W2023, W2024, W2025, W2026]
 
 ## Course 3
 
-Réalisation et maintenance de logiciels (MGL804) 
+Réalisation et maintenance de logiciels (MGL804)
 
 Chargée de laboratoire: [W2024]
+
+## Course 4
+
+programmation orientée objet (hors programme) (INF111)
+
+Chargée de laboratoire: [W2026]
 
 
 
