@@ -30,7 +30,7 @@ Chargée de laboratoire: [W2024]
 
 ## Course 4
 
-programmation orientée objet (hors programme) (INF111)
+Programmation orientée objet (hors programme) (INF111)
 
 Chargée de laboratoire: [W2026]
 
