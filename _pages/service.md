@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Publicity chair
-  - SSBSE 2026
+  - SSBSE (2026)
 
 ### PC member:
   - ICSME (2026) : Tool Demonstration and Data Showcase track
