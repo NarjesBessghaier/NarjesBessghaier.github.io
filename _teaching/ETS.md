@@ -9,34 +9,25 @@ location: "Montreal, QC, Canada"
 
 ![In the class](../images/teaching.png)
 
-## Course 1
-
-Programmation et réseautique en génie logiciel (LOG100) 
+## Course 1: Programmation et réseautique en génie logiciel (LOG100) 
 
 Chargée de laboratoire: [S2023, S2024, F2024]
 
-## Course 2
-
-Réingénierie du logiciel (LOG530) 
+## Course 2: Réingénierie du logiciel (LOG530) 
 
 Chargée de cours : [W2025]
+
 Chargée de laboratoire: [W2023, W2024, W2025, W2026]
 
-## Course 3
-
-Réalisation et maintenance de logiciels (MGL804)
+## Course 3: Réalisation et maintenance de logiciels (MGL804)
 
 Chargée de laboratoire: [W2024]
 
-## Course 4
-
-Programmation orientée objet (hors programme) (INF111)
+## Course 4: Programmation orientée objet (hors programme) (INF111)
 
 Chargée de laboratoire: [W2026]
 
-## Course 5
-
-Introduction à la programmation (INF155)
+## Course 5: Introduction à la programmation (INF155)
 
 Chargée de laboratoire: [W2026]
 
