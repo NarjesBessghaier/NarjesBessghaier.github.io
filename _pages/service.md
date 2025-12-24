@@ -13,11 +13,12 @@ redirect_from:
   - SSBSE (2026)
 
 ### PC member:
-  - ICSME (2026) : Tool Demonstration and Data Showcase track
+  - ICSME (2026) : Tool Demonstration and Data Showcase Track
+  - MSR (2026) : Mining Challenge Track
     
 ### Junior PC member:
-  - MSR (2026) : Research track
-  - MSR (2024) : Research track
+  - MSR (2026) : Research Track
+  - MSR (2024) : Research Track
     
 ### Reviewer:
   - IJHC, IJMLC (2024)
@@ -40,6 +41,8 @@ redirect_from:
 ### IEEE-member (2016-2018)
    - Rank: Graduate Student
    - Location: ISIM, Sfax branch
+     
+### IEEE-member (2024-2025)
      
   
 
