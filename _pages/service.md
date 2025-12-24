@@ -11,7 +11,7 @@ redirect_from:
 
 ### Publicity chair
   - SSBSE (2026)
-      ![SSBSE](../images/SSBSE 2026.png)
+      ![SSBSE](../images/SSBSE2026.png)
 ### PC member:
   - ICSME (2026) : Tool Demonstration and Data Showcase Track
   - MSR (2026) : Mining Challenge Track
