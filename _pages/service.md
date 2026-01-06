@@ -17,6 +17,7 @@ redirect_from:
 ### PC member:
   - ICSME (2026) : Tool Demonstration and Data Showcase Track
   - MSR (2026) : Mining Challenge Track
+  - TOSEM (2026)
     
 ### Junior PC member:
   - MSR (2026) : Research Track
