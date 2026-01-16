@@ -20,8 +20,4 @@ With over seven years of research experience, Narjes has authored 12 peer-review
 - SBSE and ML for SE
 
 
-<p style="color:red;">
-💼 I am open to postdoctoral research opportunities in <b>Software Engineering</b>. I am highly motivated to contribute to hardworking, research-driven teams focused on advancing <b>systems infrastructure and deployment technologies</b>.
-</p>
-  
 ![SANER 2024 in Rovaniemi, Finland](images/Conference.png)
