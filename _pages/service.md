@@ -9,10 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-### Publicity chair
-  - SSBSE (2026)
-      ![SSBSE](../images/SSBSE2026.png)
-      [View all flyers for SSBSE 2026 (To be added soon!)](https://.../)
+### Publicity co-chair
+  - SSBSE (2026) [Linkedin page](https://www.linkedin.com/company/the-18th-symposium-on-search-based-software-engineering-2026-ssbse-2026)
     
 ### PC member:
   - ICSME (2026) : Tool Demonstration and Data Showcase Track
