@@ -8,4 +8,3 @@ venue: "Le Laboratoire des recherches transdisciplinaires sur les écosystèmes 
 date: 2026-01-21
 location: "UQAM, Montreal, QC, Canada"
 ---
-![conference](../images/LATECE.jpg)
