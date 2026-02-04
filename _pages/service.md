@@ -11,6 +11,10 @@ redirect_from:
 
 ### Publicity co-chair
   - SSBSE (2026) [Linkedin page](https://www.linkedin.com/company/the-18th-symposium-on-search-based-software-engineering-2026-ssbse-2026)
+    [Duties included:
+    - Designing all promotional posters.
+    - Writing and posting engaging content for X, LinkedIn, and Facebook social media platforms.
+    - Coordinating with other publicity co-chairs and web chair.]
     
 ### PC member:
   - ICSME (2026) : Tool Demonstration and Data Showcase Track
