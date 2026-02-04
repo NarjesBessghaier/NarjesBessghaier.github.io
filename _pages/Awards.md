@@ -24,7 +24,7 @@ redirect_from:
 * First rank award in the 2nd year of master’s degree (2017)
   - Higher Institute of Computer Science and Multimedia of Sfax (Tunisia) 
 
-* Excellence Grant awarded for ranking among the top 3 students of my 1st year of Master's program (2016)
+* Excellence Grant awarded for ranking top 1 in my 1st year of Master's program (2016)
   - Ministry of Higher Education and Scientific Research (Tunisia)
 
 * First rank award in the 1st year of master’s degree (2016)
