@@ -10,11 +10,11 @@ location: "Gabes, Tunisia"
 ![In the class](../images/ISG.png)
 
 
-## Course 1: Traitement de texte (2éme Année Licence Fondamentale IAG)
+## Course 1: Traitement de texte (2ème Année Licence Fondamentale IAG)
 
 Assistant - vacataire: [W2018] 
 
-## Course 2: Tech-Multimedia (1ére Année Licence appliquée IAG/EC)
+## Course 2: Tech-Multimedia (1ère Année Licence appliquée IAG/EC)
 
 Assistant - vacataire: [S2018] 
 
