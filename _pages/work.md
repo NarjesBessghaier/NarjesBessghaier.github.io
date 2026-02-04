@@ -15,15 +15,18 @@ redirect_from:
   * Period: Winter 2016
   * Place: ISG, Gabes, Tunisia
                 
-### 3D design intern
-  * Place: PALM 3D Studio 
-  * Duties: Participating as a 3D designer in the realization of an animated series.
+### 3D design intern 
+  * Duties:
+      - Contributed to the development of two animated series episode scripts.
+      - Assisted in reviewing and providing feedback on rendered 3D sequences.
+      - Designed 3D object prototypes using Autodesk MAYA.
   * Supervisor: Ing. [Raouf Bessghaier](https://www.linkedin.com/in/bessghaier-raouf/)
   * Period: 2016-2019
+  * Place: PALM 3D Studio
 
 ### Gypsum sculpture
   * Place: PALM 3D Studio 
-  * Duties: Design of gypsum sculpture: we model a fantasy 3D objects using 3D modeling software. Then, we sculpt the models using gypsum.
+  * Duties: we model a fantasy 3D objects using 3D modeling software. Then, we sculpt the models using gypsum.
   * Supervisor: Ing. [Raouf Bessghaier](https://www.linkedin.com/in/bessghaier-raouf/)
   * Period: Summer 2019
     
