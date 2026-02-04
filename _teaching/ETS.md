@@ -17,7 +17,7 @@ Chargée de laboratoire: [S2023, S2024, F2024]
 
 Chargée de cours : [W2025]
 
-Chargée de laboratoire: [W2023, W2024, W2025, W2026]
+Chargée de laboratoire: [W2023, W2024, W2025]
 
 ## Course 3: Réalisation et maintenance de logiciels (MGL804)
 
