@@ -22,8 +22,7 @@ redirect_from:
   - MSR (2026) : Mining Challenge Track
     
 ### Junior PC member:
-  - MSR (2026) : Research Track
-  - MSR (2024) : Research Track
+  - MSR (2024, 2026) : Research Track
     
 ### Reviewer:
   - TOSEM (2026)
