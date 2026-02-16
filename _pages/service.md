@@ -12,14 +12,18 @@ redirect_from:
 ### Publicity co-chair
   - SSBSE (2026) [Linkedin page](https://www.linkedin.com/company/the-18th-symposium-on-search-based-software-engineering-2026-ssbse-2026)
     
-    [Duties included:]
     - Designing all promotional posters.
-    - Writing and posting engaging content for X, LinkedIn, and Facebook social media platforms.
+    - Writing engaging content for X, LinkedIn, and Facebook social media platforms.
     - Coordinating with other publicity co-chairs and web chair.
-    
+      
+  - CoopIS (2026): Upcoming
+      
 ### PC member:
   - ICSME (2026) : Tool Demonstration and Data Showcase Track
   - MSR (2026) : Mining Challenge Track
+  - SSBSE (2026) : Challenge Track
+  - FSE (2026) : Poster Track
+  - IEEE-ICWS (2021, 2022) : Research Track 
     
 ### Junior PC member:
   - MSR (2024, 2026) : Research Track
@@ -27,7 +31,6 @@ redirect_from:
 ### Reviewer:
   - TOSEM (2026)
   - IJHC, IJMLC (2024)
-  - IEEE-ICWS (2021, 2022)
     
 ### Sub-reviewer:
   - EMSE, SCICO (2024)
