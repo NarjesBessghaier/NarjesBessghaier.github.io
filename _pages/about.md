@@ -18,6 +18,7 @@ With over seven years of research experience, Narjes has authored 12 peer-review
 - AI & SE for DevOps
 - Empirical Studies
 - SBSE and ML for SE
+- Code Review
 
 
 ![SANER 2024 in Rovaniemi, Finland](images/Conference.png)
