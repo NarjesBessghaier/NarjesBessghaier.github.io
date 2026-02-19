@@ -1,6 +1,7 @@
 ---
-title: "Teaching assistant (2023-2026)"
+title: "Teaching (2023-2026)"
 collection: teaching
+type: "Undergraduate and graduate level"
 venue: "École de technologie supérieure, University of Quebec"
 date: 2023-01-01
 location: "Montreal, QC, Canada"
@@ -14,16 +15,13 @@ location: "Montreal, QC, Canada"
       Teaching Experience
     </div>
 
-    <h1 style="font-size:30px; margin:6px 0 10px 0; line-height:1.2;">
-      Courses & Academic Instruction
-    </h1>
   </header>
 
   <!-- Hero Image -->
   <figure style="margin:18px 0 24px 0; padding:12px; border:1px solid #ddd; border-radius:14px;">
     <img src="../images/teaching.png" alt="In the class" style="width:100%; height:auto; display:block; border-radius:10px;">
     <figcaption style="font-size:13px; color:#555; margin-top:8px;">
-      Teaching and laboratory instruction.
+      Teaching.
     </figcaption>
   </figure>
 
@@ -58,6 +56,9 @@ location: "Montreal, QC, Canada"
         <strong>Chargée de laboratoire:</strong>
         <span style="color:#555;">W2023, W2024, W2025</span>
       </div>
+      <div style="font-size:14px; color:#555; margin-top:4px;">
+        Type: Undergraduate level
+      </div>
     </div>
 
     <!-- Course 3 -->
@@ -70,6 +71,9 @@ location: "Montreal, QC, Canada"
       </div>
       <div style="font-size:14px; color:#555; margin-top:4px;">
         Session: W2024
+      </div>
+      <div style="font-size:14px; color:#555; margin-top:4px;">
+        Type: Graduate level
       </div>
     </div>
 
@@ -84,6 +88,9 @@ location: "Montreal, QC, Canada"
       <div style="font-size:14px; color:#555; margin-top:4px;">
         Session: W2026
       </div>
+      <div style="font-size:14px; color:#555; margin-top:4px;">
+        Type: Undergraduate level
+      </div>
     </div>
 
     <!-- Course 5 -->
@@ -96,6 +103,9 @@ location: "Montreal, QC, Canada"
       </div>
       <div style="font-size:14px; color:#555; margin-top:4px;">
         Session: W2026
+      </div>
+      <div style="font-size:14px; color:#555; margin-top:4px;">
+        Type: Undergraduate level
       </div>
     </div>
 
