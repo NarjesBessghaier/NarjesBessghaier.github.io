@@ -1,5 +1,5 @@
 --- 
-title: "3D video game" 
+title: "3D Video Game" 
 collection: tools 
 type: "B.S project" 
 permalink: /tools/game 
@@ -15,10 +15,6 @@ location: "Gabes, Tunisia"
     <div style="font-size:13px; color:#555; letter-spacing:.3px; text-transform:uppercase;">
       Tool · B.S. Project
     </div>
-
-    <h1 style="font-size:34px; margin:6px 0 10px 0; line-height:1.2;">
-      3D Video Game
-    </h1>
 
     <div style="display:flex; flex-wrap:wrap; gap:10px; font-size:14px; color:#444;">
       <span><strong>Venue:</strong> Higher Institute of Management</span>
