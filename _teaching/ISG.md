@@ -9,8 +9,7 @@ location: "Gabes, Tunisia"
 
 <article style="max-width:980px; margin:0 auto; font-family:Arial, Helvetica, sans-serif; color:#222; line-height:1.65;">
 
-
-  <!-- Hero Image -->
+ <!-- Hero Image -->
   <figure style="margin:18px 0 24px 0; padding:12px; border:1px solid #ddd; border-radius:14px;">
     <img src="../images/ISG.png" alt="ISG teaching" style="width:100%; height:auto; display:block; border-radius:10px;">
     <figcaption style="font-size:13px; color:#555; margin-top:8px;">
