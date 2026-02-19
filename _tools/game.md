@@ -105,19 +105,19 @@ location: "Gabes, Tunisia"
       Story behind the game
     </h2>
 
-    <p style="margin:12px 0 0 0;">
+    <p style="text-align: justify;  font-size: 14px; margin:12px 0 0 0;">
       I developed an educational 3D video game focused on the French colonization of Tunisia. The game consists of
       two interactive maps, each featuring educational questions related to the historical period. These questions
       appear on floating canvases, and players must shoot bullets at the correct answers to progress.
     </p>
 
-    <p style="margin:10px 0 0 0;">
+    <p style="text-align: justify;  font-size: 14px; margin:10px 0 0 0;">
       When players approach specific artifacts—such as jars, mines, or gates—a short narrative is triggered to provide
       historical context about how these items were used during the colonial era. Each map also includes combat
       challenges, where players must shoot a set of enemies and collect gold.
     </p>
 
-    <p style="margin:10px 0 0 0;">
+    <p style="text-align: justify;  font-size: 14px; margin:10px 0 0 0;">
       The player controls a miniature aircraft emblazoned with the Tunisian flag. The aircraft’s small scale—designed
       at a 1:10 ratio relative to other in-game objects—adds an extra layer of difficulty, strengthening the game’s
       immersive dimension.
