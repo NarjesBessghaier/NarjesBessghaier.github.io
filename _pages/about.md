@@ -13,7 +13,6 @@ Narjes Bessghaier holds a Ph.D. in Software Engineering from École de Technolog
 With over seven years of research experience, Narjes has authored 12 peer-reviewed publications in leading software engineering venues, including SANER, MSR, TOSEM, EMSE, JSS, and ESEM. She has actively contributed to the research community through service on the program committee, as a reviewer for multiple conferences and journals, and by volunteering at various academic events. Throughout her academic career, she has received multiple awards and been nominated for the PhD Excellence Award 2025. Her long-term vision is to advance trustworthy and secure IaC automation practices at the intersection of software engineering and AI for DevOps.
 </div>
 
-<br>
 
 <div style="font-size: 14px;">
   <strong>Research Interests</strong>
