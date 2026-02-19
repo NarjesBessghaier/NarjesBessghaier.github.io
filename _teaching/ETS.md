@@ -9,14 +9,6 @@ location: "Montreal, QC, Canada"
 
 <article style="max-width:980px; margin:0 auto; font-family:Arial, Helvetica, sans-serif; color:#222; line-height:1.65;">
 
-  <!-- Header -->
-  <header style="margin:26px 0 18px 0;">
-    <div style="font-size:13px; color:#555; letter-spacing:.3px; text-transform:uppercase;">
-      Teaching Experience
-    </div>
-
-  </header>
-
   <!-- Hero Image -->
   <figure style="margin:18px 0 24px 0; padding:12px; border:1px solid #ddd; border-radius:14px;">
     <img src="../images/teaching.png" alt="In the class" style="width:100%; height:auto; display:block; border-radius:10px;">
