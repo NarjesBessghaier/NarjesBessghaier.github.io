@@ -12,7 +12,7 @@ redirect_from:
 Narjes Bessghaier holds a Ph.D. in Software Engineering from École de Technologie Supérieure (ÉTS), Canada (2025). Her research focuses on AI-driven recommendation systems for Infrastructure-as-Code (IaC), with an emphasis on improving software quality, security, and developer productivity in DevOps environments. She began her academic journey with a Bachelor’s degree in Computer Science and Management from ISGG, Tunisia (2015), and earned a Master’s degree in Enterprise Systems Engineering from ISIMS, Tunisia (2017). 
 With over seven years of research experience, Narjes has authored 12 peer-reviewed publications in leading software engineering venues, including SANER, MSR, TOSEM, EMSE, JSS, and ESEM. She has actively contributed to the research community through service on the program committee, as a reviewer for multiple conferences and journals, and by volunteering at various academic events. Throughout her academic career, she has received multiple awards and been nominated for the PhD Excellence Award 2025. Her long-term vision is to advance trustworthy and secure IaC automation practices at the intersection of software engineering and AI for DevOps.
 </div>
-
+<br>
 
 <div style="font-size: 14px;">
   <strong>Research Interests</strong>
@@ -27,5 +27,10 @@ With over seven years of research experience, Narjes has authored 12 peer-review
 </div>
 
 <br>
+<figure style="margin:18px 0 24px 0; padding:12px; border:1px solid #ddd; border-radius:14px;">
+    <img src="..images/Conference.png" alt="conference" style="width:100%; height:auto; display:block; border-radius:10px;">
+    <figcaption style="font-size:13px; color:#555; margin-top:8px;">
+      SANER 2024 in Rovaniemi, Finland.
+    </figcaption>
+  </figure>
 
-![SANER 2024 in Rovaniemi, Finland](images/Conference.png)
