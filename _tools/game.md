@@ -1,4 +1,11 @@
-
+--- 
+title: "3D video game" 
+collection: tools 
+type: "B.S project" 
+permalink: /tools/game 
+venue: "Higher Institute of Management" 
+location: "Gabes, Tunisia" 
+---
 <!-- Page content (keep your YAML front-matter in the file above this section) -->
 
 <article style="max-width:980px; margin:0 auto; font-family:Arial, Helvetica, sans-serif; color:#222; line-height:1.65;">
