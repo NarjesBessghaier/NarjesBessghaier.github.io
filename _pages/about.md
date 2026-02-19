@@ -14,7 +14,7 @@ With over seven years of research experience, Narjes has authored 12 peer-review
 </div>
 
 
-
+<div style="font-size: 14px;">
 **Research Interests**
 - Infrastructure-as-Code
 - Software Configuration
@@ -22,6 +22,6 @@ With over seven years of research experience, Narjes has authored 12 peer-review
 - Empirical Studies
 - SBSE and ML for SE
 - Code Review
-
+</div>
 
 ![SANER 2024 in Rovaniemi, Finland](images/Conference.png)
