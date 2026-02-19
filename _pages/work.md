@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Work experience"
+title: "Academic & Professional Engagement"
 permalink: /work/
 author_profile: true
 redirect_from:
@@ -17,9 +17,6 @@ redirect_from:
       Professional Experience · Supervision · Research Collaboration
     </div>
 
-    <h1 style="font-size:30px; margin:6px 0 10px 0; line-height:1.2;">
-      Academic & Professional Engagement
-    </h1>
   </header>
 
   <!-- ===================== -->
