@@ -13,15 +13,18 @@ Narjes Bessghaier holds a Ph.D. in Software Engineering from École de Technolog
 With over seven years of research experience, Narjes has authored 12 peer-reviewed publications in leading software engineering venues, including SANER, MSR, TOSEM, EMSE, JSS, and ESEM. She has actively contributed to the research community through service on the program committee, as a reviewer for multiple conferences and journals, and by volunteering at various academic events. Throughout her academic career, she has received multiple awards and been nominated for the PhD Excellence Award 2025. Her long-term vision is to advance trustworthy and secure IaC automation practices at the intersection of software engineering and AI for DevOps.
 </div>
 
+<br>
 
 <div style="font-size: 14px;">
-**Research Interests**
-- Infrastructure-as-Code
-- Software Configuration
-- AI & SE for DevOps
-- Empirical Studies
-- SBSE and ML for SE
-- Code Review
+  <strong>Research Interests</strong>
+  <ul style="margin: 6px 0 0 18px; padding: 0;">
+    <li>Infrastructure-as-Code</li>
+    <li>Software Configuration</li>
+    <li>AI &amp; SE for DevOps</li>
+    <li>Empirical Studies</li>
+    <li>SBSE and ML for SE</li>
+    <li>Code Review</li>
+  </ul>
 </div>
 
 ![SANER 2024 in Rovaniemi, Finland](images/Conference.png)
