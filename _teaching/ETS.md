@@ -41,6 +41,9 @@ location: "Montreal, QC, Canada"
       <div style="font-size:14px; color:#555; margin-top:4px;">
         Sessions: S2023, S2024, F2024
       </div>
+      <div style="font-size:14px; color:#555; margin-top:4px;">
+        Type: Undergraduate level
+      </div>
     </div>
 
     <!-- Course 2 -->
