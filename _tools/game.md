@@ -29,7 +29,7 @@ location: "Gabes, Tunisia"
   <figure style="margin:18px 0 22px 0; padding:12px; border:1px solid #ddd; border-radius:14px;">
     <img src="../images/game.png" alt="3D game" style="width:100%; height:auto; display:block; border-radius:10px;">
     <figcaption style="font-size:13px; color:#555; margin-top:8px;">
-      Guardian Jet — educational 3D game prototype (Unity + Maya).
+      Guardian Jet — educational 3D game (Unity + Maya).
     </figcaption>
   </figure>
 
