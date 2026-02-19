@@ -2,7 +2,7 @@
 title: "Teaching (2018-2019)"
 collection: teaching
 type: "Undergraduate level"
-venue: "Institut Supérieur de Gestion,Université de Gabès"
+venue: "Institut Supérieur de Gestion, Université de Gabès"
 date: 2018-01-01 
 location: "Gabes, Tunisia"
 ---
