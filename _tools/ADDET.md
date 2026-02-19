@@ -1,5 +1,5 @@
 ---
-title: "A tool for the detection of structural aesthetic defects of android mobile user interfaces"
+title: "ADDET — Android UI Structural Aesthetic Defects Detection"
 collection: tools
 type: "Research project"
 permalink: /tools/ADDET
@@ -13,10 +13,6 @@ location: "Tunis, Tunisia"
     <div style="font-size:13px; color:#555; letter-spacing:.3px; text-transform:uppercase;">
       Tool · Research Tool
     </div>
-
-    <h1 style="font-size:32px; margin:6px 0 10px 0; line-height:1.2;">
-      ADDET — Android UI Structural Aesthetic Defects Detection
-    </h1>
 
     <div style="display:flex; flex-wrap:wrap; gap:10px; font-size:14px; color:#444;">
       <span><strong>Focus:</strong> Structural aesthetic quality of mobile user interfaces (MUIs)</span>
