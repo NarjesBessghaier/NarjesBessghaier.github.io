@@ -1,5 +1,5 @@
 ---
-title: "Mobile apps UI defects detection and restructuring Framework"
+title: " Mobile Apps UI Defects Detection and Restructuring Framework "
 collection: tools
 type: "Research project"
 permalink: /tools/UI
@@ -16,10 +16,6 @@ location: "Tunis, Tunisia"
     <div style="font-size:13px; color:#555; letter-spacing:.3px; text-transform:uppercase;">
       Tool · Research Project
     </div>
-
-    <h1 style="font-size:32px; margin:6px 0 10px 0; line-height:1.2;">
-      Mobile Apps UI Defects Detection and Restructuring Framework
-    </h1>
 
     <div style="display:flex; flex-wrap:wrap; gap:10px; font-size:14px; color:#444;">
       <span><strong>Venue:</strong> National School of Computer Science</span>
