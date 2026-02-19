@@ -35,7 +35,7 @@ redirect_from:
    * Degree: Maîtrise avec projet en génie des technologies de l'information
    * Project: Une étude empirique sur la diffusion et l’impact des anomalies de code d’infrastructure.
    * Affiliation: ETS, Montreal, QC, Canada
-   * Period: Winter 2023
+   * Period: Winter 2023, Summer 2023
  
 ### Co-supervisor
    * Student: Fatma BEJI (MITACS intern)
