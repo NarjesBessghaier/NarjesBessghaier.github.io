@@ -11,7 +11,7 @@ location: "Gabes, Tunisia"
 
  <!-- Hero Image -->
   <figure style="margin:18px 0 24px 0; padding:12px; border:1px solid #ddd; border-radius:14px;">
-    <img src="../images/ISG.png" alt="ISG teaching" style="width:100%; height:auto; display:block; border-radius:10px;">
+    <img src="/images/ISG.png" alt="ISG teaching" style="width:100%; height:auto; display:block; border-radius:10px;">
     <figcaption style="font-size:13px; color:#555; margin-top:8px;">
       Teaching activities at the Higher Institute of Management (ISG), Gabes.
     </figcaption>
