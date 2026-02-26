@@ -87,6 +87,11 @@ redirect_from:
             <td style="padding:6px 8px; border-bottom:1px solid #eee;">Poster Track</td>
           </tr>
           <tr>
+            <td style="padding:6px 8px; border-bottom:1px solid #eee; font-weight:600;">AIWare</td>
+            <td style="padding:6px 8px; border-bottom:1px solid #eee; color:#555; text-align:right;">2026</td>
+            <td style="padding:6px 8px; border-bottom:1px solid #eee;">Benchmark&Dataset Track</td>
+          </tr>
+          <tr>
             <td style="padding:6px 8px; font-weight:600;">IEEE-ICWS</td>
             <td style="padding:6px 8px; color:#555; text-align:right;">2021–2022</td>
             <td style="padding:6px 8px;">Research Track</td>
