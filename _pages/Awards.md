@@ -45,11 +45,26 @@ redirect_from:
     </div>
   </div>
 
-
-  <!-- AWARDS -->
+  <!-- RESEARCH AWARDS -->
   <div>
     <h2 style="font-size:20px; border-bottom:2px solid #000; padding-bottom:6px; margin-bottom:20px;">
-      Awards
+      Research awards
+    </h2>
+
+    <div style="margin-bottom:18px;">
+      <div style="display:flex; justify-content:space-between; font-weight:600;">
+        <span>Nominated for “Best Mining Challenge Paper Award”</span>
+        <span style="color:#555;">2024</span>
+      </div>
+      <div style="font-size:14px; color:#444;">
+        21st International Conference on Mining Software Repositories (MSR)
+      </div>
+    </div>
+  </div>  
+  <!-- ACADEMIC AWARDS -->
+  <div>
+    <h2 style="font-size:20px; border-bottom:2px solid #000; padding-bottom:6px; margin-bottom:20px;">
+      Academic awards
     </h2>
 
     <div style="margin-bottom:18px;">
