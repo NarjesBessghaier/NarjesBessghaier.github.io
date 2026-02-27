@@ -112,6 +112,9 @@ redirect_from:
         <span>Nominated for “Prix Présidentiel”</span>
         <span style="color:#555;">2015</span>
       </div>
+      <div style="font-size:14px; color:#444;">
+        Ministry of Higher Education and Scientific Research (Tunisia)
+      </div>
     </div>
 
     <div style="margin-bottom:18px;">
