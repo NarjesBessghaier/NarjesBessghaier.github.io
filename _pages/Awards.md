@@ -53,7 +53,7 @@ redirect_from:
 
     <div style="margin-bottom:18px;">
       <div style="display:flex; justify-content:space-between; font-weight:600;">
-        <span>Nominated for “Best Mining Challenge Paper Award”</span>
+        <span>Best Mining Challenge Paper Award</span>
         <span style="color:#555;">2024</span>
       </div>
       <div style="font-size:14px; color:#444;">
