@@ -79,7 +79,12 @@ redirect_from:
           <tr>
             <td style="padding:6px 8px; border-bottom:1px solid #eee; font-weight:600;">SSBSE</td>
             <td style="padding:6px 8px; border-bottom:1px solid #eee; color:#555; text-align:right;">2026</td>
-            <td style="padding:6px 8px; border-bottom:1px solid #eee;">Challenge Track,Research Track</td>
+            <td style="padding:6px 8px; border-bottom:1px solid #eee;">Challenge Track</td>
+          </tr>
+          <tr>
+            <td style="padding:6px 8px; border-bottom:1px solid #eee; font-weight:600;">SSBSE</td>
+            <td style="padding:6px 8px; border-bottom:1px solid #eee; color:#555; text-align:right;">2026</td>
+            <td style="padding:6px 8px; border-bottom:1px solid #eee;">Research Track</td>
           </tr>
           <tr>
             <td style="padding:6px 8px; border-bottom:1px solid #eee; font-weight:600;">FSE</td>
