@@ -212,7 +212,7 @@ redirect_from:
           <span style="color:#555;">2016–2018</span>
         </div>
         <div style="display:flex; justify-content:space-between; padding:6px 0;">
-          <span>&nbsp;</span>
+          <span><strong>Graduate Student</strong> ETS, Montreal</span>
           <span style="color:#555;">2024–2025</span>
         </div>
       </div>
