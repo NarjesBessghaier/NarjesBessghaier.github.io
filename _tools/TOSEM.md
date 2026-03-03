@@ -162,25 +162,45 @@ location: "ÉTS, University of Quebec, Canada"
     <div style="font-size:14px;">
       Bessghaier, N., Sayagh, M., Ouni, A., & Mkaouer, M. W. (2023).<br>
       <em>What Constitutes the Deployment and Runtime Configuration System? An Empirical Study on OpenStack Projects.</em><br>
-      ACM Transactions on Software Engineering and Methodology (TOSEM).<br>
-      https://doi.org/10.1145/3607186
+      ACM Transactions on Software Engineering and Methodology (TOSEM).<br><br>
+      DOI: https://doi.org/10.1145/3607186
     </div>
   </section>
 
   <!-- Download -->
+   <!-- Download -->
   <section style="padding:16px; border:1px solid #ddd; border-radius:14px;">
-    <h2 style="font-size:18px; margin:0 0 10px 0;">Replication Package</h2>
+    <h2 style="font-size:18px; margin:0 0 10px 0;">Download</h2>
 
     <div style="font-size:14px;">
-      The replication package includes:
-      <ul>
-        <li>Labeled datasets</li>
-        <li>Feature extraction scripts</li>
-        <li>Training and evaluation scripts</li>
-        <li>Trained models</li>
-      </ul>
-      (Available via the project repository accompanying the paper :contentReference[oaicite:3]{index=3}.)
+      <strong>Source code:</strong>
+      <a href="https://github.com/stilab-ets/iacreview" target="_blank" rel="noopener noreferrer"
+         style="color:#0b57d0; text-decoration:none;">
+        https://github.com/stilab-ets/CongIdentification
+      </a>
+      <div style="margin-top:6px; color:#444;">
+        Repository includes Labeled datasets, experimental scripts, and Trained models.
+      </div>
     </div>
   </section>
+    
+     
 
 </article>
+
+
+  <!-- Download -->
+  <section style="padding:16px; border:1px solid #ddd; border-radius:14px;">
+    <h2 style="font-size:18px; margin:0 0 10px 0;">Download</h2>
+
+    <div style="font-size:14px;">
+      <strong>Source code:</strong>
+      <a href="https://github.com/stilab-ets/iacreview" target="_blank" rel="noopener noreferrer"
+         style="color:#0b57d0; text-decoration:none;">
+        https://github.com/stilab-ets/iacreview
+      </a>
+      <div style="margin-top:6px; color:#444;">
+        Repository includes datasets, experimental scripts, and implementation details.
+      </div>
+    </div>
+  </section>
