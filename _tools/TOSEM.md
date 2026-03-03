@@ -88,7 +88,7 @@ location: "ÉTS, University of Quebec, Canada"
       <!-- Step 3 -->
       <div style="border:1px solid #ddd; border-radius:14px; padding:14px;">
         <div style="font-weight:700; margin-bottom:6px;">3 — Feature Selection & Reduction</div>
-       c<div style="font-size:14px;">
+        <div style="font-size:14px;">
           To improve robustness and avoid overfitting:
           <ul>
             <li>Pearson’s Chi-square test is used for feature relevance selection</li>
