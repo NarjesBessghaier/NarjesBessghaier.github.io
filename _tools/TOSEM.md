@@ -24,7 +24,7 @@ location: "ÉTS, University of Quebec, Canada"
 
   <!-- Hero image -->
   <figure style="margin:18px 0 22px 0; padding:12px; border:1px solid #ddd; border-radius:14px;">
-    <img src="../images/tosem23.png" alt="Configuration RF Model" style="width:100%; height:auto; display:block; border-radius:10px;">
+    <img src="/images/tosem23.jpg" alt="Configuration RF Model" style="width:100%; height:auto; display:block; border-radius:10px;">
     <figcaption style="font-size:13px; color:#555; margin-top:8px;">
       ConfigRF — Automatic identification and classification of configuration files composing a configuration system.
     </figcaption>
