@@ -43,14 +43,16 @@ location: "ÉTS, University of Quebec, Canada"
       formats and extensions with regular source code files.
     </p>
 
-    <p style="font-size:14px; margin-top:10px;">
+    <p style=" margin-top:10px;">
+    <div style="font-size:14px;">
       To address this challenge, we propose <strong>ConfigRF</strong>, a machine learning–based
       approach that:
       <ul>
         <li>Automatically distinguishes configuration files from non-configuration files</li>
         <li>Classifies configuration files into nine empirically derived configuration types</li>
       </ul>
-      The model was validated on 635 OpenStack projects :contentReference[oaicite:1]{index=1}.
+      The model was validated on 635 OpenStack projects.
+      </div>
     </p>
   </section>
 
@@ -86,7 +88,7 @@ location: "ÉTS, University of Quebec, Canada"
       <!-- Step 3 -->
       <div style="border:1px solid #ddd; border-radius:14px; padding:14px;">
         <div style="font-weight:700; margin-bottom:6px;">3 — Feature Selection & Reduction</div>
-        <div style="font-size:14px;">
+       c<div style="font-size:14px;">
           To improve robustness and avoid overfitting:
           <ul>
             <li>Pearson’s Chi-square test is used for feature relevance selection</li>
@@ -133,7 +135,7 @@ location: "ÉTS, University of Quebec, Canada"
       • Median Weighted Recall: 0.82<br><br>
 
       Remarkably, labeling as few as <strong>100 files</strong> is sufficient to train a model
-      achieving strong predictive performance :contentReference[oaicite:2]{index=2}.
+      achieving strong predictive performance.
     </div>
   </section>
 
