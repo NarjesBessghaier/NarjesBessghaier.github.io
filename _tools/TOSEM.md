@@ -168,13 +168,13 @@ location: "ÉTS, University of Quebec, Canada"
   </section>
 
   <!-- Download -->
-   <!-- Download -->
+   
   <section style="padding:16px; border:1px solid #ddd; border-radius:14px;">
     <h2 style="font-size:18px; margin:0 0 10px 0;">Download</h2>
 
     <div style="font-size:14px;">
       <strong>Source code:</strong>
-      <a href="https://github.com/stilab-ets/iacreview" target="_blank" rel="noopener noreferrer"
+      <a href="https://github.com/stilab-ets/CongIdentification" target="_blank" rel="noopener noreferrer"
          style="color:#0b57d0; text-decoration:none;">
         https://github.com/stilab-ets/CongIdentification
       </a>
@@ -189,18 +189,4 @@ location: "ÉTS, University of Quebec, Canada"
 </article>
 
 
-  <!-- Download -->
-  <section style="padding:16px; border:1px solid #ddd; border-radius:14px;">
-    <h2 style="font-size:18px; margin:0 0 10px 0;">Download</h2>
 
-    <div style="font-size:14px;">
-      <strong>Source code:</strong>
-      <a href="https://github.com/stilab-ets/iacreview" target="_blank" rel="noopener noreferrer"
-         style="color:#0b57d0; text-decoration:none;">
-        https://github.com/stilab-ets/iacreview
-      </a>
-      <div style="margin-top:6px; color:#444;">
-        Repository includes datasets, experimental scripts, and implementation details.
-      </div>
-    </div>
-  </section>
