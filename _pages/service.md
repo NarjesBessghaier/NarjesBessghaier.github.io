@@ -37,7 +37,7 @@ redirect_from:
           <ul style="margin:8px 0 0 18px; padding:0;">
             <li>Designed all promotional posters.</li>
             <li>Wrote engaging content for X, LinkedIn, and Facebook.</li>
-            <li>Coordinated with other publicity co-chairs and the web chair.</li>
+            
           </ul>
         </div>
 
@@ -48,13 +48,16 @@ redirect_from:
             <span style="color:#555;">2026</span>
           </div>
           <div style="font-size:14px; margin-top:4px;">
-            <span style="color:#444;">Upcoming:</span>
-            <a href="https://coopis.scitevents.org"
+          <a href="https://www.linkedin.com/in/conference-on-cooperative-information-systems-5449b2358/"
                target="_blank" rel="noopener noreferrer"
                style="color:#0b57d0; text-decoration:none;">
-              Conference website
+            LinkedIn page
             </a>
           </div>
+          <ul style="margin:8px 0 0 18px; padding:0;">
+            <li>Designed all promotional posters.</li>
+            
+          </ul>
         </div>
       </div>
     </div>
