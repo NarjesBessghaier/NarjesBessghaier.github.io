@@ -94,7 +94,7 @@ redirect_from:
         <div style="font-weight:700;">
           “TBD”
         </div>
-        <div style="color:#555;">W2026-S2026</div>
+        <div style="color:#555;">Winter & Summer 2026</div>
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Collaborators:</strong> Dr. Moataz chouchen, Dr. Mohamed Wiem Mkaouer, and Dr. Marouene Chaieb
