@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Services"
+title: " Academic Service . Professional Activities"
 permalink: /service/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 <section style="max-width:900px; margin:0 auto; font-family:Arial, Helvetica, sans-serif; color:#222; line-height:1.6;">
 
   <h2 style="font-size:20px; border-bottom:2px solid #000; padding-bottom:6px; margin:0 0 18px 0;">
-    Academic Service &amp; Professional Activities
+   
   </h2>
 
   <!-- Publicity Co-chair -->
