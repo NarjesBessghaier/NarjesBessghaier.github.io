@@ -88,6 +88,9 @@ redirect_from:
         <strong>Project:</strong> Une étude empirique sur la diffusion et l’impact des anomalies de code d’infrastructure
       </div>
       <div style="font-size:14px; margin-top:6px;">
+        <strong>Supervisor:</strong> Dr. Ali Ouni
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
         <strong>Affiliation:</strong> ETS, Montreal, QC, Canada
       </div>
     </div>
@@ -103,6 +106,9 @@ redirect_from:
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Project:</strong> A fine-grained detection of Infrastructure-as-Code smells
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Supervisor:</strong> Dr. Ali Ouni
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Affiliation:</strong> ENSI, University of Tunis, Tunisia
