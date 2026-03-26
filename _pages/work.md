@@ -108,7 +108,7 @@ redirect_from:
         <strong>Project:</strong> A fine-grained detection of Infrastructure-as-Code smells
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Supervisor:</strong> Dr. Ali Ouni
+        <strong>Supervisor:</strong> Dr. Ali Ouni and Dr. Maha Khemaja
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Affiliation:</strong> ENSI, University of Tunis, Tunisia
