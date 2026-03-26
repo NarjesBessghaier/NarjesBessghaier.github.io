@@ -27,8 +27,9 @@ redirect_from:
     <h2 style="font-size:20px; border-bottom:2px solid #000; padding-bottom:6px; margin-bottom:16px;">
       Research Collaboration
     </h2>
+    
     <!-- project 2 -->
-    <div style="border:1px solid #ddd; border-radius:14px; padding:16px;">
+    <div style="border:1px solid #ddd; border-radius:14px; padding:16px;margin-bottom:14px;">
       <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
         <div style="font-weight:700;">
           “TBD”
