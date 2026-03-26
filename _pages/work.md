@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic & Professional Engagement"
+title: "Academic & Research Engagement"
 permalink: /work/
 author_profile: true
 redirect_from:
@@ -14,85 +14,12 @@ redirect_from:
   <!-- Header -->
   <header style="margin:26px 0 18px 0;">
     <div style="font-size:13px; color:#555; letter-spacing:.3px; text-transform:uppercase;">
-      Professional Experience · Supervision · Research Collaboration
+       Supervision · Research Collaboration
     </div>
 
   </header>
 
-  <!-- ===================== -->
-  <!-- PROFESSIONAL EXPERIENCE -->
-  <!-- ===================== -->
-  <section style="margin-bottom:30px;">
-
-    <h2 style="font-size:20px; border-bottom:2px solid #000; padding-bottom:6px; margin-bottom:16px;">
-      Professional Experience
-    </h2>
-
-    <!-- ALECSO -->
-    <div style="border:1px solid #ddd; border-radius:14px; padding:16px; margin-bottom:14px;">
-      <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
-        <div style="font-weight:700;">ALECSO M-Developer Project Candidate</div>
-        <div style="color:#555;">Winter 2016</div>
-      </div>
-      <div style="font-size:14px; margin-top:6px;">
-        <strong>Place:</strong> ISG, Gabes, Tunisia
-      </div>
-      <div style="font-size:14px; margin-top:6px;">
-        <strong>Duties:</strong> Developed web-based mobile applications.
-      </div>
-    </div>
-
-    <!-- 3D Design Intern -->
-    <div style="border:1px solid #ddd; border-radius:14px; padding:16px; margin-bottom:14px;">
-      <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
-        <div style="font-weight:700;">3D Design Intern</div>
-        <div style="color:#555;">2016–2019</div>
-      </div>
-      <div style="font-size:14px; margin-top:6px;">
-        <strong>Place:</strong> PALM 3D Studio
-      </div>
-      <div style="font-size:14px; margin-top:6px;">
-        <strong>Supervisor:</strong>
-        Ing.
-        <a href="https://www.linkedin.com/in/bessghaier-raouf/"
-           target="_blank" rel="noopener noreferrer"
-           style="color:#0b57d0; text-decoration:none;">
-          Raouf Bessghaier
-        </a>
-      </div>
-      <ul style="margin:8px 0 0 18px; font-size:14px;">
-        <li>Contributed to the development of two animated series episode scripts.</li>
-        <li>Reviewed and provided feedback on rendered 3D sequences.</li>
-        <li>Designed 3D object prototypes using Autodesk Maya.</li>
-      </ul>
-    </div>
-
-    <!-- Gypsum Sculpture -->
-    <div style="border:1px solid #ddd; border-radius:14px; padding:16px;">
-      <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
-        <div style="font-weight:700;">Gypsum Sculpture Project</div>
-        <div style="color:#555;">Summer 2019</div>
-      </div>
-      <div style="font-size:14px; margin-top:6px;">
-        <strong>Place:</strong> PALM 3D Studio
-      </div>
-      <div style="font-size:14px; margin-top:6px;">
-        <strong>Supervisor:</strong>
-        Ing.
-        <a href="https://www.linkedin.com/in/bessghaier-raouf/"
-           target="_blank" rel="noopener noreferrer"
-           style="color:#0b57d0; text-decoration:none;">
-          Raouf Bessghaier
-        </a>
-      </div>
-      <div style="font-size:14px; margin-top:6px;">
-        <strong>Duties:</strong> Modeled fantasy 3D objects using 3D modeling software,
-        then sculpted the models using gypsum materials.
-      </div>
-    </div>
-
-  </section>
-
+  
   <!-- ===================== -->
   <!-- SUPERVISION -->
   <!-- ===================== -->
@@ -156,6 +83,24 @@ redirect_from:
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Collaborators:</strong> Dr. Khaled Ghedira and Dr. Makram Soui
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Affiliation:</strong> ENSI, University of Tunis, Tunisia
+      </div>
+    </div>
+
+    <div style="border:1px solid #ddd; border-radius:14px; padding:16px;">
+      <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+        <div style="font-weight:700;">
+          “TBD”
+        </div>
+        <div style="color:#555;">W2026-S2026</div>
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Collaborators:</strong> Dr. Moataz chouchen, Dr. Mohamed Wiem Mkaouer, and Dr. Marouene Chaieb
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Students:</strong> Salma Sghaier and Anas Daoud
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Affiliation:</strong> ENSI, University of Tunis, Tunisia
