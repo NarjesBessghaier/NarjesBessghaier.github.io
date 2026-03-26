@@ -74,7 +74,9 @@ redirect_from:
         <span style="color:#555;">2025</span>
       </div>
       <div style="font-size:14px; color:#444;">
-        [ETS tableau-dhonneur 2026](https://www.etsmtl.ca/a-propos/tableau-dhonneur) 
+        <a href="https://www.etsmtl.ca/a-propos/tableau-dhonneur" target="_blank" style="color:#444; text-decoration:none;">
+          Tableau d'honneur – ÉTS
+        </a>
       </div>
       
       <div style="font-size:14px; color:#444;">
