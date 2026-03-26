@@ -34,15 +34,6 @@ redirect_from:
       </div>
     </div>
 
-    <div style="margin-bottom:18px;">
-      <div style="display:flex; justify-content:space-between; font-weight:600;">
-        <span>English Certification – British Council</span>
-        <span style="color:#555;">2013</span>
-      </div>
-      <div style="font-size:14px; color:#444;">
-        Level B1
-      </div>
-    </div>
   </div>
 
   <!-- RESEARCH AWARDS -->
@@ -69,7 +60,7 @@ redirect_from:
 
     <div style="margin-bottom:18px;">
       <div style="display:flex; justify-content:space-between; font-weight:600;">
-        <span>Nominated for “Excellence Award for PhD”</span>
+        <span>Nomination – Prix d’excellence au doctorat</span>
         <span style="color:#555;">2025</span>
       </div>
       <div style="font-size:14px; color:#444;">
@@ -79,83 +70,65 @@ redirect_from:
 
     <div style="margin-bottom:18px;">
       <div style="display:flex; justify-content:space-between; font-weight:600;">
-        <span>First Rank Award – 2nd Year of Master’s Degree</span>
-        <span style="color:#555;">2017</span>
+        <span>Nommée au tableau d’honneur de l’ÉTS</span>
+        <span style="color:#555;">2025</span>
       </div>
       <div style="font-size:14px; color:#444;">
-        Higher Institute of Computer Science and Multimedia of Sfax (Tunisia)
+        École de Technologie Supérieure (ÉTS), Université du Québec, Canada 
       </div>
     </div>
 
     <div style="margin-bottom:18px;">
       <div style="display:flex; justify-content:space-between; font-weight:600;">
-        <span>Excellence Grant – Ranked Top 1 in 1st Year of Master’s Program</span>
+        <span>Prix de première du classement – Mastère </span>
+        <span style="color:#555;">2016-2017</span>
+      </div>
+      <div style="font-size:14px; color:#444;">
+        Institut Supérieur d'Informatique et de Multimédia (ISIMS), Université de Sfax, Tunisie    
+      </div>
+    </div>
+
+    <div style="margin-bottom:18px;">
+      <div style="display:flex; justify-content:space-between; font-weight:600;">
+        <span>Bourse d’excellence – Mastère (1ere année)</span>
         <span style="color:#555;">2016</span>
       </div>
       <div style="font-size:14px; color:#444;">
-        Ministry of Higher Education and Scientific Research (Tunisia)
+        Ministère de l’Enseignement supérieur et de la Recherche scientifique, Tunisie
       </div>
     </div>
 
     <div style="margin-bottom:18px;">
       <div style="display:flex; justify-content:space-between; font-weight:600;">
-        <span>First Rank Award – 1st Year of Master’s Degree</span>
-        <span style="color:#555;">2016</span>
-      </div>
-      <div style="font-size:14px; color:#444;">
-        Higher Institute of Computer Science and Multimedia of Sfax (Tunisia)
-      </div>
-    </div>
-
-    <div style="margin-bottom:18px;">
-      <div style="display:flex; justify-content:space-between; font-weight:600;">
-        <span>Nominated for “Prix Présidentiel”</span>
+        <span>Nomination – Prix Présidentiel – Licence </span>
         <span style="color:#555;">2015</span>
       </div>
       <div style="font-size:14px; color:#444;">
-        Ministry of Higher Education and Scientific Research (Tunisia)
+        Ministère de l’Enseignement supérieur et de la Recherche scientifique, Tunisie
       </div>
     </div>
 
     <div style="margin-bottom:18px;">
       <div style="display:flex; justify-content:space-between; font-weight:600;">
-        <span>Excellence Grant – Ranked First at Province Level</span>
+        <span>Prix d’excellence </span>
         <span style="color:#555;">2015</span>
       </div>
       <div style="font-size:14px; color:#444;">
-        University of Gabès (Tunisia)
+        Université de Gabès (Tunisie)
       </div>
     </div>
 
     <div style="margin-bottom:18px;">
       <div style="display:flex; justify-content:space-between; font-weight:600;">
-        <span>First Rank Award – 3rd Year of Bachelor’s Degree</span>
-        <span style="color:#555;">2015</span>
+        <span>Prix de première du classement – Licence</span>
+        <span style="color:#555;">2013-2015</span>
       </div>
       <div style="font-size:14px; color:#444;">
-        Higher Institute of Management of Gabès (Tunisia)
+        Institut Supérieur de Gestion (ISG), Université de Gabès, Tunisie
       </div>
     </div>
 
-    <div style="margin-bottom:18px;">
-      <div style="display:flex; justify-content:space-between; font-weight:600;">
-        <span>First Rank Award – 2nd Year of Bachelor’s Degree</span>
-        <span style="color:#555;">2014</span>
-      </div>
-      <div style="font-size:14px; color:#444;">
-        Higher Institute of Management of Gabès (Tunisia)
-      </div>
-    </div>
 
-    <div style="margin-bottom:18px;">
-      <div style="display:flex; justify-content:space-between; font-weight:600;">
-        <span>First Rank Award – 1st Year of Bachelor’s Degree</span>
-        <span style="color:#555;">2013</span>
-      </div>
-      <div style="font-size:14px; color:#444;">
-        Higher Institute of Management of Gabès (Tunisia)
-      </div>
-    </div>
 
   </div>
 
