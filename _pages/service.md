@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " Academic Service . Professional Activities"
+title: " Academic Services"
 permalink: /service/
 author_profile: true
 redirect_from:
@@ -83,11 +83,6 @@ redirect_from:
             <td style="padding:6px 8px; border-bottom:1px solid #eee; font-weight:600;">SSBSE</td>
             <td style="padding:6px 8px; border-bottom:1px solid #eee; color:#555; text-align:right;">2026</td>
             <td style="padding:6px 8px; border-bottom:1px solid #eee;">Challenge Track</td>
-          </tr>
-          <tr>
-            <td style="padding:6px 8px; border-bottom:1px solid #eee; font-weight:600;">SSBSE</td>
-            <td style="padding:6px 8px; border-bottom:1px solid #eee; color:#555; text-align:right;">2026</td>
-            <td style="padding:6px 8px; border-bottom:1px solid #eee;">Research Track</td>
           </tr>
           <tr>
             <td style="padding:6px 8px; border-bottom:1px solid #eee; font-weight:600;">FSE</td>
@@ -205,22 +200,7 @@ redirect_from:
     </div>
   </div>
 
-  <!-- IEEE Membership -->
-  <div style="margin-bottom:6px;">
-    <div style="display:flex; gap:12px; align-items:flex-start;">
-      <div style="min-width:170px; font-weight:700;">IEEE Member</div>
-      <div style="flex:1; font-size:14px;">
-        <div style="display:flex; justify-content:space-between; padding:6px 0; border-bottom:1px solid #eee;">
-          <span><strong>Graduate Student</strong> — ISIM, Sfax branch</span>
-          <span style="color:#555;">2016–2018</span>
-        </div>
-        <div style="display:flex; justify-content:space-between; padding:6px 0;">
-          <span><strong>Graduate Student</strong> — ETS, Montreal</span>
-          <span style="color:#555;">2024–2025</span>
-        </div>
-      </div>
-    </div>
-  </div>
+  
 
 </section>
 
