@@ -74,6 +74,10 @@ redirect_from:
         <span style="color:#555;">2025</span>
       </div>
       <div style="font-size:14px; color:#444;">
+        [ETS tableau-dhonneur 2026](https://www.etsmtl.ca/a-propos/tableau-dhonneur) 
+      </div>
+      
+      <div style="font-size:14px; color:#444;">
         École de Technologie Supérieure (ÉTS), Université du Québec, Canada 
       </div>
     </div>
