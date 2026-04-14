@@ -26,6 +26,11 @@ With over seven years of research experience, I authored 12 peer-reviewed public
   </ul>
 </div>
 
+<p style="color:red;">
+💼 I am open to postdoctoral research opportunities in <b>Software Engineering</b>. I am highly motivated to contribute to hardworking, research-driven teams focused on advancing <b>systems infrastructure and deployment technologies</b>.
+</p>
+
+  
 <br>
   <!-- Hero image -->
   <figure style="margin:18px 0 22px 0; padding:12px; border:1px solid #ddd; border-radius:14px;">
