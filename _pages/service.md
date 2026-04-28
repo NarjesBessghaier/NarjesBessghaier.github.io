@@ -123,7 +123,7 @@ redirect_from:
       <div style="min-width:170px; font-weight:700;">Reviewer</div>
       <div style="flex:1; font-size:14px;">
         <div style="display:flex; justify-content:space-between; padding:6px 0; border-bottom:1px solid #eee;">
-          <span><strong>TOSEM</strong></span><span style="color:#555;">2026</span>
+          <span><strong>TOSEM, EMSE</strong></span><span style="color:#555;">2026</span>
         </div>
         <div style="display:flex; justify-content:space-between; padding:6px 0;">
           <span><strong>IJHC</strong>, <strong>IJMLC</strong></span><span style="color:#555;">2024</span>
