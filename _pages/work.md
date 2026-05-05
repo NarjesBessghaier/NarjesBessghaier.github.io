@@ -37,13 +37,13 @@ redirect_from:
         <div style="color:#555;">Winter & Summer 2026</div>
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Collaborators:</strong> Dr. Moataz Chouchen, Dr. Mohamed Wiem Mkaouer, and Dr. Marouene Chaieb
+        <strong>Collaborators:</strong> Dr. Moataz Chouchen and Dr. Marouene Chaieb
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Students:</strong> Salma Sghaier and Anas Daoud
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Affiliation:</strong> ENSI, University of Tunis, Tunisia
+        <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
       </div>
     </div>
     
@@ -59,7 +59,7 @@ redirect_from:
         <strong>Collaborators:</strong> Dr. Khaled Ghedira and Dr. Makram Soui
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Affiliation:</strong> ENSI, University of Tunis, Tunisia
+        <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
       </div>
     </div>
    
