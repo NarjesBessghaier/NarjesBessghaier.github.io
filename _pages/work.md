@@ -43,7 +43,7 @@ redirect_from:
         <strong>Students:</strong> Salma Sghaier and Anas Daoud
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
+        <strong>Affiliation:</strong> ETS, Concordia University (Montreal, QC, Canada), ENSI (University of Manouba, Tunisia)
       </div>
     </div>
 
@@ -63,7 +63,7 @@ redirect_from:
 
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
+        <strong>Affiliation:</strong> ETS (Montreal, QC, Canada), ENSI (University of Manouba, Tunisia)
       </div>
     </div>
 
@@ -82,7 +82,7 @@ redirect_from:
         <strong>Students:</strong> Mohamed Amine ESSID and Aymen Jedidi
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
+        <strong>Affiliation:</strong> ETS (Montreal, QC, Canada), ENSI (University of Manouba, Tunisia)
       </div>
     </div>
 
@@ -101,7 +101,7 @@ redirect_from:
         <strong>Students:</strong> Haythem IDI
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
+        <strong>Affiliation:</strong> ETS, Concordia University (Montreal, QC, Canada), ENSI (University of Manouba, Tunisia)
       </div>
     </div>
 
@@ -120,7 +120,7 @@ redirect_from:
         <strong>Students:</strong> Zied Daif
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
+        <strong>Affiliation:</strong> ETS, Concordia University (Montreal, QC, Canada), ENSI (University of Manouba, Tunisia)
       </div>
     </div>
 
@@ -139,7 +139,7 @@ redirect_from:
         <strong>Students:</strong> Azar Benchkir & Raed Affes
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
+        <strong>Affiliation:</strong> ETS, Concordia University (Montreal, QC, Canada), ENSI (University of Manouba, Tunisia)
       </div>
     </div>
     
@@ -170,7 +170,7 @@ redirect_from:
         <strong>Supervisor:</strong> Dr. Moataz Chouchen
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Affiliation:</strong> ETS, Montreal, QC, Canada | ENSI, University of Manouba, Tunisia
+        <strong>Affiliation:</strong> ETS, Concordia University (Montreal, QC, Canada), ENSI (University of Manouba, Tunisia)
       </div>
     </div>
 
@@ -210,7 +210,7 @@ redirect_from:
         <strong>Supervisor:</strong> Dr. Ali Ouni and Dr. Maha Khemaja
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Affiliation:</strong> ETS, Montreal, QC, Canada | ENSI, University of Manouba, Tunisia
+        <strong>Affiliation:</strong>cETS, Montreal, QC, Canada | ENSI, University of Manouba, Tunisia
       </div>
     </div>
 
