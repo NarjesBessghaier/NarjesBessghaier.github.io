@@ -34,10 +34,10 @@ redirect_from:
         <div style="font-weight:700;">
           “TBD”
         </div>
-        <div style="color:#555;">Winter2026</div>
+        <div style="color:#555;">Winter 2026</div>
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Collaborators:</strong> Dr. Moataz Chouchen and Dr. Marouene Chaieb
+        <strong>Collaborator(s):</strong> Dr. Moataz Chouchen and Dr. Marouene Chaieb
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Students:</strong> Salma Sghaier and Anas Daoud
@@ -56,7 +56,7 @@ redirect_from:
         <div style="color:#555;">Summer 2026</div>
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Collaborators:</strong>Dr. Marouene Chaieb
+        <strong>Collaborator(s):</strong>Dr. Marouene Chaieb
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Students:</strong> Yasmine Ben Khalifa and Meriam Remadi
@@ -76,7 +76,7 @@ redirect_from:
         <div style="color:#555;">Summer 2026</div>
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Collaborators:</strong>Dr. Marouene Chaieb
+        <strong>Collaborator(s):</strong>Dr. Marouene Chaieb
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Students:</strong> Mohamed Amine ESSID and Aymen Jedidi
@@ -95,7 +95,7 @@ redirect_from:
         <div style="color:#555;">Summer 2026</div>
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Collaborators:</strong>Dr. Marouene Chaieb and Dr. Moataz Chouchen
+        <strong>Collaborator(s):</strong>Dr. Marouene Chaieb and Dr. Moataz Chouchen
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Students:</strong> Haythem IDI
@@ -114,7 +114,7 @@ redirect_from:
         <div style="color:#555;">Summer 2026</div>
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Collaborators:</strong>Dr. Marouene Chaieb and Dr. Moataz Chouchen
+        <strong>Collaborator(s):</strong>Dr. Marouene Chaieb and Dr. Moataz Chouchen
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Students:</strong> Zied Daif
@@ -133,7 +133,7 @@ redirect_from:
         <div style="color:#555;">Summer 2026</div>
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Collaborators:</strong>Dr. Marouene Chaieb and Dr. Moataz Chouchen
+        <strong>Collaborator(s):</strong>Dr. Marouene Chaieb and Dr. Moataz Chouchen
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Students:</strong> Azar Benchkir & Raed Affes
@@ -153,6 +153,26 @@ redirect_from:
     <h2 style="font-size:20px; border-bottom:2px solid #000; padding-bottom:6px; margin-bottom:16px;">
       Co-Supervision
     </h2>
+
+    <!-- Student 3 -->
+    <div style="border:1px solid #ddd; border-radius:14px; padding:16px; margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+        <div style="font-weight:700;">Salma Sghaier and Anas Daoud (MITACS Intern)</div>
+        <div style="color:#555;">Summer 2026</div>
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Degree:</strong> Diplôme national d’ingénieur informatique
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Project:</strong> TBD
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Supervisor:</strong> Dr. Moataz Chouchen
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Affiliation:</strong> ETS, Montreal, QC, Canada | ENSI, University of Manouba, Tunisia
+      </div>
+    </div>
 
     <!-- Student 1 -->
     <div style="border:1px solid #ddd; border-radius:14px; padding:16px; margin-bottom:14px;">
@@ -190,29 +210,11 @@ redirect_from:
         <strong>Supervisor:</strong> Dr. Ali Ouni and Dr. Maha Khemaja
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Affiliation:</strong> ENSI, University of Tunis, Tunisia
-      </div>
-    </div>
-
-    <!-- Student 3 -->
-    <div style="border:1px solid #ddd; border-radius:14px; padding:16px; margin-bottom:14px;">
-      <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
-        <div style="font-weight:700;">Salma Sghaier and Anas Daoud</div>
-        <div style="color:#555;">Summer 2026</div>
-      </div>
-      <div style="font-size:14px; margin-top:6px;">
-        <strong>Degree:</strong> Mitacs interns
-      </div>
-      <div style="font-size:14px; margin-top:6px;">
-        <strong>Project:</strong> TBD
-      </div>
-      <div style="font-size:14px; margin-top:6px;">
-        <strong>Supervisor:</strong> Dr. Moataz Chouchen
-      </div>
-      <div style="font-size:14px; margin-top:6px;">
         <strong>Affiliation:</strong> ETS, Montreal, QC, Canada | ENSI, University of Manouba, Tunisia
       </div>
     </div>
+
+    
 
   </section>
 
