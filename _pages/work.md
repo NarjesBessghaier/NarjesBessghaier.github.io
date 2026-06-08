@@ -25,7 +25,7 @@ redirect_from:
   <section>
 
     <h2 style="font-size:20px; border-bottom:2px solid #000; padding-bottom:6px; margin-bottom:16px;">
-      Research Collaboration
+     Internships
     </h2>
     
     <!-- project 2 -->
@@ -34,7 +34,7 @@ redirect_from:
         <div style="font-weight:700;">
           “TBD”
         </div>
-        <div style="color:#555;">Winter & Summer 2026</div>
+        <div style="color:#555;">Winter2026</div>
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Collaborators:</strong> Dr. Moataz Chouchen and Dr. Marouene Chaieb
@@ -46,24 +46,103 @@ redirect_from:
         <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
       </div>
     </div>
-    
-    <!-- project 1 -->
-    <div style="border:1px solid #ddd; border-radius:14px; padding:16px;">
+
+    <!-- project 3 -->
+    <div style="border:1px solid #ddd; border-radius:14px; padding:16px;margin-bottom:14px;">
       <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
         <div style="font-weight:700;">
-          “An optimization-based approach for learning user interfaces restructuring”
+          “TBD”
         </div>
-        <div style="color:#555;">2018–2020</div>
+        <div style="color:#555;">Summer 2026</div>
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Collaborators:</strong> Dr. Khaled Ghedira and Dr. Makram Soui
+        <strong>Collaborators:</strong>Dr. Marouene Chaieb
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Students:</strong> Yasmine Ben Khalifa and Meriam Remadi
+
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
       </div>
     </div>
-   
 
+    <!-- project 4 -->
+    <div style="border:1px solid #ddd; border-radius:14px; padding:16px;margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+        <div style="font-weight:700;">
+          “TBD”
+        </div>
+        <div style="color:#555;">Summer 2026</div>
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Collaborators:</strong>Dr. Marouene Chaieb
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Students:</strong> Mohamed Amine ESSID and Aymen Jedidi
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
+      </div>
+    </div>
+
+    <!-- project 5 -->
+    <div style="border:1px solid #ddd; border-radius:14px; padding:16px;margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+        <div style="font-weight:700;">
+          “TBD”
+        </div>
+        <div style="color:#555;">Summer 2026</div>
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Collaborators:</strong>Dr. Marouene Chaieb and Dr. Moataz Chouchen
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Students:</strong> Haythem IDI
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
+      </div>
+    </div>
+
+    <!-- project 6 -->
+    <div style="border:1px solid #ddd; border-radius:14px; padding:16px;margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+        <div style="font-weight:700;">
+          “TBD”
+        </div>
+        <div style="color:#555;">Summer 2026</div>
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Collaborators:</strong>Dr. Marouene Chaieb and Dr. Moataz Chouchen
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Students:</strong> Zied Daif
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
+      </div>
+    </div>
+
+    <!-- project 7 -->
+    <div style="border:1px solid #ddd; border-radius:14px; padding:16px;margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+        <div style="font-weight:700;">
+          “TBD”
+        </div>
+        <div style="color:#555;">Summer 2026</div>
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Collaborators:</strong>Dr. Marouene Chaieb and Dr. Moataz Chouchen
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Students:</strong> Azar Benchkir & Raed Affes
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Affiliation:</strong> ENSI, University of Manouba, Tunisia
+      </div>
+    </div>
+    
   </section>
   
   <!-- ===================== -->
@@ -112,6 +191,26 @@ redirect_from:
       </div>
       <div style="font-size:14px; margin-top:6px;">
         <strong>Affiliation:</strong> ENSI, University of Tunis, Tunisia
+      </div>
+    </div>
+
+    <!-- Student 3 -->
+    <div style="border:1px solid #ddd; border-radius:14px; padding:16px; margin-bottom:14px;">
+      <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+        <div style="font-weight:700;">Salma Sghaier and Anas Daoud</div>
+        <div style="color:#555;">Summer 2026</div>
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Degree:</strong> Mitacs interns
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Project:</strong> TBD
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Supervisor:</strong> Dr. Moataz Chouchen
+      </div>
+      <div style="font-size:14px; margin-top:6px;">
+        <strong>Affiliation:</strong> ETS, Montreal, QC, Canada | ENSI, University of Manouba, Tunisia
       </div>
     </div>
 
