@@ -210,7 +210,7 @@ redirect_from:
         <strong>Supervisor:</strong> Dr. Ali Ouni and Dr. Maha Khemaja
       </div>
       <div style="font-size:14px; margin-top:6px;">
-        <strong>Affiliation:</strong>cETS, Montreal, QC, Canada | ENSI, University of Manouba, Tunisia
+        <strong>Affiliation:</strong>ETS, Montreal, QC, Canada | ENSI, University of Manouba, Tunisia
       </div>
     </div>
 
