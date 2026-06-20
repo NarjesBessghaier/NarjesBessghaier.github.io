@@ -16,6 +16,9 @@ I am a Postdoctoral researcher at École de Technologie Supérieure (ÉTS) worki
 <div style="font-size: 14px;">
   <strong>Research Interests</strong>
   <ul style="margin: 6px 0 0 18px; padding: 0;">
+    <li>Requirements Engineering</li>
+    <li>Experience Design</li>
+    <li>User Cognitive</li>
     <li>Infrastructure-as-Code</li>
     <li>Software Configuration</li>
     <li>AI &amp; SE for DevOps</li>
