@@ -192,7 +192,7 @@ redirect_from:
   <!-- Volunteer -->
   <div style="margin-bottom:18px;">
     <div style="display:flex; gap:12px; align-items:flex-start;">
-      <div style="min-width:170px; font-weight:700;">Volunteer</div>
+      <div style="min-width:170px; font-weight:700;"> Student Volunteer</div>
       <div style="flex:1;">
         <div style="display:flex; justify-content:space-between; font-weight:600;">
           <span>Journée Francophone des Femmes en Informatique (JFFI)</span>
@@ -204,6 +204,18 @@ redirect_from:
              target="_blank" rel="noopener noreferrer"
              style="color:#0b57d0; text-decoration:none;">
             JFFI
+          </a>
+        </div>
+        <div style="display:flex; justify-content:space-between; font-weight:600;">
+          <span>RE conference</span>
+          <span style="color:#555;">2026</span>
+        </div>
+        <div style="font-size:14px;">
+          Website:
+          <a href="https://conf.researchr.org/home/RE-2026"
+             target="_blank" rel="noopener noreferrer"
+             style="color:#0b57d0; text-decoration:none;">
+            RE
           </a>
         </div>
       </div>
