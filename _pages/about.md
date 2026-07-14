@@ -41,3 +41,11 @@ I am a Postdoctoral fellow in HCSE research lab at École de Technologie Supéri
   </figure>
   
 
+------------------------
+Narjes Bessghaier, Ph.D.
+Postdoctoral fellow
+HCSE research lab
+Département de génie logiciel et des TI
+École de Technologie Supérieure (ÉTS) 
+1100, rue Notre-Dame Ouest | Montréal (Qc) H3C 1K3 Canada 
+Tél.: 514 549 8390 | Bureau A-4441
