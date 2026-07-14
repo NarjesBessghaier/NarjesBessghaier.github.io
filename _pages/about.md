@@ -47,6 +47,6 @@ I am a Postdoctoral fellow in HCSE research lab at École de Technologie Supéri
     HCSE research lab<br>
     Département de génie logiciel et des TI<br>
     École de Technologie Supérieure (ÉTS)<br>
-    <span style="color: #555555;">1100, rue Notre-Dame Ouest | Montréal (Qc) H3C 1K3 Canada</span><br>
-    <span style="color: #555555;">Tél. : 514 549 8390 &nbsp;|&nbsp; Bureau A-4441</span>
+    <span style="color: #1a5699;">1100, rue Notre-Dame Ouest | Montréal (Qc) H3C 1K3 Canada</span><br>
+    <span style="color: #1a5699;">Tél. : 514 549 8390 &nbsp;|&nbsp; Bureau A-4441</span>
 </div>
