@@ -39,13 +39,14 @@ I am a Postdoctoral fellow in HCSE research lab at École de Technologie Supéri
       SANER 2024 in Rovaniemi, Finland.
     </figcaption>
   </figure>
-  
 
-------------------------
-Narjes Bessghaier, Ph.D.<br>
-Postdoctoral fellow<br>
-HCSE research lab<br>
-Département de génie logiciel et des TI<br>
-École de Technologie Supérieure (ÉTS) <br>
-1100, rue Notre-Dame Ouest | Montréal (Qc) H3C 1K3 Canada <br>
-Tél.: 514 549 8390 | Bureau A-4441
+  <br>
+<div style="font-family: Arial, sans-serif; font-size: 13px; color: #1a5699; line-height: 1.5;">
+    <strong>Narjes Bessghaier, Ph.D.</strong><br>
+    Postdoctoral fellow<br>
+    HCSE research lab<br>
+    Département de génie logiciel et des TI<br>
+    École de Technologie Supérieure (ÉTS)<br>
+    <span style="color: #555555;">1100, rue Notre-Dame Ouest | Montréal (Qc) H3C 1K3 Canada</span><br>
+    <span style="color: #555555;">Tél. : 514 549 8390 &nbsp;|&nbsp; Bureau A-4441</span>
+</div>
